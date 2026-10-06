@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+<title id="title">Xenium X280 firmware reverse-engineering treemap</title>
+<desc id="desc">Treemap of 196 extracted or identified image-like resources: 144 decoded AB2 images, 44 decoded JPEG GIF BMP images, and 8 undecoded proprietary 240 by 20 candidates. Area is proportional to count.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111b27"/><stop offset="1" stop-color="#0b121b"/></linearGradient>
+  <linearGradient id="ab2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#168f68"/><stop offset="1" stop-color="#126b53"/></linearGradient>
+  <linearGradient id="classic" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#347e66"/><stop offset="1" stop-color="#245947"/></linearGradient>
+  <linearGradient id="unknown" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cf5d55"/><stop offset="1" stop-color="#923e43"/></linearGradient>
+</defs>
+<rect width="1200" height="640" rx="20" fill="url(#bg)"/>
+<text x="32" y="48" fill="#9cb2c9" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.4">XENIUM X280 · MT6261 · FIRMWARE RESEARCH</text>
+<text x="32" y="91" fill="#f2f6fa" font-family="Inter,Arial,sans-serif" font-size="29" font-weight="700">Карта графических ресурсов</text>
+<text x="32" y="118" fill="#9aabba" font-family="Inter,Arial,sans-serif" font-size="14">Площадь блока пропорциональна числу ресурсов · 188 декодировано · 8 кандидатов ещё не разобраны</text>
+<!-- area proportional to counts: 144 / 44 / 8 -->
+<rect x="30" y="145" width="840" height="420" rx="10" fill="url(#ab2)" stroke="#0b121b" stroke-width="5"/>
+<rect x="870" y="145" width="300" height="355" rx="10" fill="url(#classic)" stroke="#0b121b" stroke-width="5"/>
+<rect x="870" y="500" width="300" height="65" rx="10" fill="url(#unknown)" stroke="#0b121b" stroke-width="5"/>
+<text x="60" y="191" fill="#d9fff0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">MEDIAteK AB2 / RLE</text>
+<text x="58" y="323" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="118" font-weight="750">144</text>
+<text x="66" y="362" fill="#d7f5e9" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="600">изображения декодированы</text>
+<text x="66" y="398" fill="#c5eadb" font-family="Inter,Arial,sans-serif" font-size="15">143 уникальных визуала · среди них иконки приложений</text>
+<rect x="66" y="430" width="1" height="1" fill="#fff"/>
+<text x="66" y="474" fill="#e7fff5" font-family="Inter,Arial,sans-serif" font-size="13">RLE и палитры проверены на границах каждого ресурса.</text>
+<text x="900" y="202" fill="#d7f5e9" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">JPEG · GIF · BMP</text>
+<text x="896" y="302" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="74" font-weight="750">44</text>
+<text x="902" y="336" fill="#d7f5e9" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="600">ресурса извлечены</text>
+<text x="902" y="365" fill="#c1decf" font-family="Inter,Arial,sans-serif" font-size="12">Стандартные форматы</text>
+<text x="902" y="385" fill="#c1decf" font-family="Inter,Arial,sans-serif" font-size="12">и GIF-анимации</text>
+<text x="897" y="535" fill="#fff5f2" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="750">8</text>
+<text x="930" y="529" fill="#fff5f2" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700">240×20 · ФОРМАТ НЕ РАЗОБРАН</text>
+<text x="930" y="547" fill="#ffdad3" font-family="Inter,Arial,sans-serif" font-size="10">кандидаты на собственный графический кодек</text>
+<circle cx="36" cy="601" r="5" fill="#4bd19a"/>
+<text x="50" y="606" fill="#bdc9d5" font-family="Inter,Arial,sans-serif" font-size="12">зелёный — формат декодирован</text>
+<circle cx="280" cy="601" r="5" fill="#ee7167"/>
+<text x="294" y="606" fill="#bdc9d5" font-family="Inter,Arial,sans-serif" font-size="12">красный — требуется реверс-инжиниринг</text>
+<text x="1168" y="606" text-anchor="end" fill="#7d90a4" font-family="Inter,Arial,sans-serif" font-size="11">v1 · 2026-10-06</text>
+</svg>
