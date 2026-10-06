@@ -13,7 +13,7 @@
 2. [Карта изображений](maps/images.md) — JPEG/GIF/BMP и MediaTek AB2, источники, группы и незавершённые форматы.
 3. [Карта строк и локализаций](maps/strings.md) — UTF-16LE блоки, найденные русские подписи и кандидаты на таблицу языковых ресурсов.
 
-Машиночитаемые данные лежат в [`data/`](data/), ход анализа — в [`analysis/reverse-engineering-log.md`](analysis/reverse-engineering-log.md).
+Машиночитаемые данные лежат в [`data/`](data/), ход анализа — в [`analysis/reverse-engineering-log.txt`](analysis/reverse-engineering-log.txt).
 
 ## Подтверждённые результаты
 
