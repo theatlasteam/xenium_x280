@@ -1,0 +1,5648 @@
+[
+  {
+    "index": 1,
+    "file": "jpeg_110594.jpg",
+    "path_in_bundle": "x280_assets/jpeg_110594.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 1,
+    "source": "raw 0x110594",
+    "sha256_file": "88a726cc2c033d38bf9bab4ce8cf36536f5c8abf3bbdc6408ba161f45c2debd3",
+    "first_frame_pixels_sha256": "a6bd82f839fcf857015f7be13284a7126a326e7e53f4ace10b239b799ac17253",
+    "source_path_original": "x280_assets/jpeg_110594.jpg",
+    "visual_sha256_rgba_normalized": "d8fc955eadc9ec27ab72c38728e9cac0eafdb6299cde42f570febe56f66b2128",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      1
+    ]
+  },
+  {
+    "index": 2,
+    "file": "jpeg_112470.jpg",
+    "path_in_bundle": "x280_assets/jpeg_112470.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 1,
+    "source": "raw 0x112470",
+    "sha256_file": "8880143259c7447c6ac95eb51aa639788b3b19dc052348ea315dcc779c8d1de8",
+    "first_frame_pixels_sha256": "4844dd2c447df7a74738e7ef9b96d9f3c6914a280c652d6671bf515c04fa4ff4",
+    "source_path_original": "x280_assets/jpeg_112470.jpg",
+    "visual_sha256_rgba_normalized": "ed3f12fdacf682b73228369f59909b6976daf23703b675d31524f59e432bf77a",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      2
+    ]
+  },
+  {
+    "index": 3,
+    "file": "jpeg_115394.jpg",
+    "path_in_bundle": "x280_assets/jpeg_115394.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 1,
+    "source": "raw 0x115394",
+    "sha256_file": "02ff894744b0ade03d7479cefb1eae29e7d3ce043a9578ede19efe669a92feef",
+    "first_frame_pixels_sha256": "18aeb253c4b0ef6652832a6d4a7c3335cb6bea2d5501b43d06e5b9163c4044ea",
+    "source_path_original": "x280_assets/jpeg_115394.jpg",
+    "visual_sha256_rgba_normalized": "f88906707917b36ac1329ef3400f40312b597d70f06bf3903927a565e32aff13",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      3
+    ]
+  },
+  {
+    "index": 4,
+    "file": "jpeg_16A6D8.jpg",
+    "path_in_bundle": "x280_assets/jpeg_16A6D8.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 1,
+    "source": "raw 0x16A6D8",
+    "sha256_file": "76b0ed51317050b0eb7870be5beaafbdf19c500e06d7cbb443c01a78f081bf7d",
+    "first_frame_pixels_sha256": "6d8ac8a8a5adbaabd0b7e97385ad5a8d5ff34c3017d6a1968922ab77600a6dc1",
+    "source_path_original": "x280_assets/jpeg_16A6D8.jpg",
+    "visual_sha256_rgba_normalized": "21562815c04a4c754c05f82a9cdf06914030d86bc386a508fadbf93848e56050",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      4
+    ]
+  },
+  {
+    "index": 5,
+    "file": "jpeg_16C2A4.jpg",
+    "path_in_bundle": "x280_assets/jpeg_16C2A4.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 1,
+    "source": "raw 0x16C2A4",
+    "sha256_file": "01c97d1264a9e116cc548c42588708d9dc495a9d23b4c226168881adbcd20599",
+    "first_frame_pixels_sha256": "a00073d98e3b1805f78c07496cd08381f2736b534d3b18c56d2bde111615a6a6",
+    "source_path_original": "x280_assets/jpeg_16C2A4.jpg",
+    "visual_sha256_rgba_normalized": "e2656edc1a186cf3cfb9b61d509915f2224631b2c5a93f38089aaf89d9a2c1d6",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      5
+    ]
+  },
+  {
+    "index": 6,
+    "file": "jpeg_16DF38.jpg",
+    "path_in_bundle": "x280_assets/jpeg_16DF38.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 1,
+    "source": "raw 0x16DF38",
+    "sha256_file": "0f5f20584411a4de384b59566ed2bcd03e709444053a2c580946ca670f0d37e5",
+    "first_frame_pixels_sha256": "80f31d596247ce44a0e9436e9c31fe9ba5711f0aee60af50fc2088c6727c0aab",
+    "source_path_original": "x280_assets/jpeg_16DF38.jpg",
+    "visual_sha256_rgba_normalized": "77f597511fc61d49350ec011c7e9bced5e50733cdd9999d85f852401a229713c",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      6
+    ]
+  },
+  {
+    "index": 7,
+    "file": "jpeg_16FA88.jpg",
+    "path_in_bundle": "x280_assets/jpeg_16FA88.jpg",
+    "format": "JPEG",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 1,
+    "source": "raw 0x16FA88",
+    "sha256_file": "675a865dec2d29e4bec4e8df27cee436eb19348bd75aa7b6bef98372f9b91b56",
+    "first_frame_pixels_sha256": "78939e7214885f93ec992d165d43834f23cfa05a18ac64856f65b13d1bcadce7",
+    "source_path_original": "x280_assets/jpeg_16FA88.jpg",
+    "visual_sha256_rgba_normalized": "c4f2a5666827d40a930076bfc33285e0e9ee1e759bda32840e38a17254faf687",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      7
+    ]
+  },
+  {
+    "index": 8,
+    "file": "shutdown_or_loading_gif_1172C4.gif",
+    "path_in_bundle": "x280_assets/shutdown_or_loading_gif_1172C4.gif",
+    "format": "GIF",
+    "dimensions": [
+      241,
+      321
+    ],
+    "frames": 1,
+    "source": "raw 0x1172C4",
+    "sha256_file": "58a3ea1a0fa30e51d417c4878983334d72d4b9ec0f7000d012a71219a32feee2",
+    "first_frame_pixels_sha256": "8a65b909bed1716d3d3ac78d567bf8a6e4b35e1f0a3a070595e65a28b03426d0",
+    "source_path_original": "x280_assets/shutdown_or_loading_gif_1172C4.gif",
+    "visual_sha256_rgba_normalized": "384fcd3d9d8933c6501642618e61c0e369f5a4433260e708f5b5c1da4ddbba5a",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      8
+    ]
+  },
+  {
+    "index": 9,
+    "file": "boot_or_loading_gif_117D48.gif",
+    "path_in_bundle": "x280_assets/boot_or_loading_gif_117D48.gif",
+    "format": "GIF",
+    "dimensions": [
+      240,
+      320
+    ],
+    "frames": 15,
+    "source": "raw 0x117D48",
+    "sha256_file": "40b50b5312d57c7eaae5f5da97020e080ae76e0add5d8e5779aa38637e7b1fdc",
+    "first_frame_pixels_sha256": "1036d6195f71f8c91ca1b311679a76c25de8b306af2e813741fb67ee50c2aee0",
+    "source_path_original": "x280_assets/boot_or_loading_gif_117D48.gif",
+    "visual_sha256_rgba_normalized": "64c31886b2ad0786f4278357012cd86568b8a32d6c5232c290f92d254cfdf3ad",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      9
+    ]
+  },
+  {
+    "index": 10,
+    "file": "gif_1_152200.gif",
+    "path_in_bundle": "x280_deep_assets/gif_1_152200.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 4,
+    "source": "raw 0x152200",
+    "sha256_file": "299a3d1653152efa64861380c1efceef704b2869b60773250b2043fd043d4f53",
+    "first_frame_pixels_sha256": "495de8a43e73a9945fb171863f939918acdec8225b5d75a28d76873fe39511fb",
+    "source_path_original": "x280_deep_assets/gif_1_152200.gif",
+    "visual_sha256_rgba_normalized": "265fccff0287c332c677d15fd7b5c942d8c5676ee12bcbe8a453aa549b95b7b7",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      10
+    ]
+  },
+  {
+    "index": 11,
+    "file": "gif_2_152F50.gif",
+    "path_in_bundle": "x280_deep_assets/gif_2_152F50.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 4,
+    "source": "raw 0x152f50",
+    "sha256_file": "b3c53ea01e905a00442c5240a2e4eadf8f5acf5126df8e52b3ad5d598df2fc2b",
+    "first_frame_pixels_sha256": "52d8b3baa678f6a0ea37ef7c6b12113b85650468ad33570ffdee0783f082acbc",
+    "source_path_original": "x280_deep_assets/gif_2_152F50.gif",
+    "visual_sha256_rgba_normalized": "e56024059ab49ed3e9e61f683164ffdab323d961283623eb614e69d8b01e1c8e",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      11
+    ]
+  },
+  {
+    "index": 12,
+    "file": "gif_3_153CA0.gif",
+    "path_in_bundle": "x280_deep_assets/gif_3_153CA0.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 4,
+    "source": "raw 0x153ca0",
+    "sha256_file": "ed88417220dd1123e00b63753d2ea60e44fb4042e53b496ba3d53e13bbd3f23a",
+    "first_frame_pixels_sha256": "8f8b78ad20cd1b613ca1629b8da475eb66d160016249de1d421d2cd70c1e9799",
+    "source_path_original": "x280_deep_assets/gif_3_153CA0.gif",
+    "visual_sha256_rgba_normalized": "629f767c4864f3ff4ec9c3c59dd2a79b8576c1c6d2fe2500ff294ca178240376",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      12
+    ]
+  },
+  {
+    "index": 13,
+    "file": "gif_4_1549F4.gif",
+    "path_in_bundle": "x280_deep_assets/gif_4_1549F4.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 4,
+    "source": "raw 0x1549f4",
+    "sha256_file": "a98bd4640417a9e371c49f59f3b6a413b9bb9000a7f809d2a280b777692c233d",
+    "first_frame_pixels_sha256": "d49408d4d8b006a0037e851653694872515eb3667eac099dd36a917b605d71fc",
+    "source_path_original": "x280_deep_assets/gif_4_1549F4.gif",
+    "visual_sha256_rgba_normalized": "06c134bb1c2da900ad17adb93e63b3429e39a1a3f88415ec2fb6058903d0ae32",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      13
+    ]
+  },
+  {
+    "index": 14,
+    "file": "gif_5_15574C.gif",
+    "path_in_bundle": "x280_deep_assets/gif_5_15574C.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 4,
+    "source": "raw 0x15574c",
+    "sha256_file": "53d01b22d2d806092cca2ea6948d2e53f4d2632bcad6b72225e6899b01d70bb9",
+    "first_frame_pixels_sha256": "2d9fccd6e1a270c637c09425130fa59c2591d6d08c4a624bd402ce935317dbbb",
+    "source_path_original": "x280_deep_assets/gif_5_15574C.gif",
+    "visual_sha256_rgba_normalized": "5b481b3f122e45ce36f7866c9e9009252d6a604e1abf797bf1d93fbc59c156b0",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      14
+    ]
+  },
+  {
+    "index": 15,
+    "file": "bmp_1570D0.png",
+    "path_in_bundle": "x280_deep_assets/bmp_1570D0.png",
+    "format": "BMP",
+    "dimensions": [
+      240,
+      158
+    ],
+    "frames": 1,
+    "source": "raw 0x1570d0",
+    "sha256_file": "1829042de66dca33904dfc2df824ad2eb8143d2f1bc6a77653a8912ca1693980",
+    "first_frame_pixels_sha256": "f1630e9db48b15b52fd9308793d92f4304dd1f0bc1c2d9f93644e657a303b3c4",
+    "source_path_original": "x280_deep_assets/bmp_1570D0.png",
+    "visual_sha256_rgba_normalized": "dd74c7b7f02d3b969e5b1d45c60815fc9397b2c0f863ced17fa9e6a6ea4d2afb",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      15
+    ]
+  },
+  {
+    "index": 16,
+    "file": "13D7A0_000c_001.gif",
+    "path_in_bundle": "x280_decoded_assets/13D7A0_000c_001.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 5,
+    "source": "ZIMG 13D7A0+0xC",
+    "sha256_file": "392b067a7c5bfe24d1a3d450f2d2db6c78edbc984bd9375d6aca706ca64b1ac9",
+    "first_frame_pixels_sha256": "9c3318530def5b0f31e45639a333a1bea83c668263ff37a1df2fe79308c73c56",
+    "source_path_original": "x280_decoded_assets/13D7A0_000c_001.gif",
+    "visual_sha256_rgba_normalized": "d4fdad0851b0f98ca38b43e9762fb0bbf78b31cfa6c334c936969bd00f60fe21",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      16
+    ]
+  },
+  {
+    "index": 17,
+    "file": "13E18C_000c_002.gif",
+    "path_in_bundle": "x280_decoded_assets/13E18C_000c_002.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 5,
+    "source": "ZIMG 13E18C+0xC",
+    "sha256_file": "d17a5d776704f2bf2282fa0a5e3f71cac0ced2875b0675811d11d01977bfac71",
+    "first_frame_pixels_sha256": "e07da045b492965b7b35af87086a792591ebc8ca494234a3a6b4b58963254b22",
+    "source_path_original": "x280_decoded_assets/13E18C_000c_002.gif",
+    "visual_sha256_rgba_normalized": "30f6dcc97c98dda9dfb17131cb552db6dcec1e154efba04abf51c928920fda52",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      17
+    ]
+  },
+  {
+    "index": 18,
+    "file": "13EB7C_000c_003.gif",
+    "path_in_bundle": "x280_decoded_assets/13EB7C_000c_003.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 5,
+    "source": "ZIMG 13EB7C+0xC",
+    "sha256_file": "0972550ec40a75ffd23654352d2146ce675e1f5e8d335baa21c2fe0dcd6f49fa",
+    "first_frame_pixels_sha256": "5257b1c03f1fd20905415d2e57f38dcb6b5d577265dd91764cf0904d18c3c18d",
+    "source_path_original": "x280_decoded_assets/13EB7C_000c_003.gif",
+    "visual_sha256_rgba_normalized": "885f4913ed818c91fb3ca34f3c79dcab9632aa845664b8902347e56fcb0b8b18",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      18
+    ]
+  },
+  {
+    "index": 19,
+    "file": "13F560_000c_004.gif",
+    "path_in_bundle": "x280_decoded_assets/13F560_000c_004.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 5,
+    "source": "ZIMG 13F560+0xC",
+    "sha256_file": "2fe3e918d4d1a0919c73aa4afdf772744fe792f717c927451e6e8c960d614d73",
+    "first_frame_pixels_sha256": "090d1b5f66b6e80b126e714a7a8de5d0d5f95b61b4b56a72947d5ff273069e7c",
+    "source_path_original": "x280_decoded_assets/13F560_000c_004.gif",
+    "visual_sha256_rgba_normalized": "7d5e377a9accf8ac456f184a7d7e79982d4f0f33e17bd28fe837e545a2c34cd2",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      19
+    ]
+  },
+  {
+    "index": 20,
+    "file": "13FF60_000c_005.gif",
+    "path_in_bundle": "x280_decoded_assets/13FF60_000c_005.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 2,
+    "source": "ZIMG 13FF60+0xC",
+    "sha256_file": "e0c0f2445a684f4ac8d7c10cebe8e905a8794a5d0821aadbaf1ad0fdb16e0b69",
+    "first_frame_pixels_sha256": "a1c544b859624e63339083f9918e6010b9460bd802c4d519984e7c9233ceb18a",
+    "source_path_original": "x280_decoded_assets/13FF60_000c_005.gif",
+    "visual_sha256_rgba_normalized": "578932adb8672b6ac1aad04b9a6f4eba372f40c10807590ca523d25596484267",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      20
+    ]
+  },
+  {
+    "index": 21,
+    "file": "1406C4_000c_006.gif",
+    "path_in_bundle": "x280_decoded_assets/1406C4_000c_006.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 2,
+    "source": "ZIMG 1406C4+0xC",
+    "sha256_file": "0113e2bf2ae00331ece98045c6bf9222fdd152b9e7c1a5c41aefc5d978919227",
+    "first_frame_pixels_sha256": "29510e62ba92ebb783049d730e89a632286a6d2fb7258538113daab780fe2416",
+    "source_path_original": "x280_decoded_assets/1406C4_000c_006.gif",
+    "visual_sha256_rgba_normalized": "e10ace843e231d7c563816023d5c47b473014b4611168c2118c8e088cbb817bc",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      21
+    ]
+  },
+  {
+    "index": 22,
+    "file": "140E2C_000c_007.gif",
+    "path_in_bundle": "x280_decoded_assets/140E2C_000c_007.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 3,
+    "source": "ZIMG 140E2C+0xC",
+    "sha256_file": "c2df58bb09b0f9a375a04688561fa3f2b70fc932730b3609e5f7b28438391827",
+    "first_frame_pixels_sha256": "8cc564ecc8ac6cc9d1439ae8ef479271576cac62a11f7efe1b17fe6ff88b6088",
+    "source_path_original": "x280_decoded_assets/140E2C_000c_007.gif",
+    "visual_sha256_rgba_normalized": "d12af7451a8094cd1c5b6acdfbf82e73291b3e67b850b869f71bfab1076d06d5",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      22
+    ]
+  },
+  {
+    "index": 23,
+    "file": "140E2C_0a2c_008.gif",
+    "path_in_bundle": "x280_decoded_assets/140E2C_0a2c_008.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 1,
+    "source": "ZIMG 140E2C+0xA2C",
+    "sha256_file": "19b93af572efd953999af2d2722888cfd807fa0b7607edacf67860042935789e",
+    "first_frame_pixels_sha256": "c6bf3b5c1cd4c1549e9ac8b8ab919c998481fcc4a00f96812078692fef832876",
+    "source_path_original": "x280_decoded_assets/140E2C_0a2c_008.gif",
+    "visual_sha256_rgba_normalized": "ed2961876beca0cf98ce276dc85441c2f7985edd1270386e963c9b21ef7b4429",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      23
+    ]
+  },
+  {
+    "index": 24,
+    "file": "1418F8_0270_009.bmp",
+    "path_in_bundle": "x280_decoded_assets/1418F8_0270_009.bmp",
+    "format": "BMP",
+    "dimensions": [
+      30,
+      26
+    ],
+    "frames": 1,
+    "source": "ZIMG 1418F8+0x270",
+    "sha256_file": "d78a4d65e7d865a38e903aae6c911744ef42e394bf9b9e311b24d4b2c3dbc60a",
+    "first_frame_pixels_sha256": "e1799f3b4dff269ce2d02fc50e314f58a90568aca6af2516d040c40566c5b8ba",
+    "source_path_original": "x280_decoded_assets/1418F8_0270_009.bmp",
+    "visual_sha256_rgba_normalized": "06c4a9d2c972cb6f422ef03a7834fab4e972f53bc4b05ff9c2762d174e83ea07",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      24
+    ]
+  },
+  {
+    "index": 25,
+    "file": "1418F8_0488_010.bmp",
+    "path_in_bundle": "x280_decoded_assets/1418F8_0488_010.bmp",
+    "format": "BMP",
+    "dimensions": [
+      30,
+      26
+    ],
+    "frames": 1,
+    "source": "ZIMG 1418F8+0x488",
+    "sha256_file": "36987e9137e05aa609593bb1f7a81f3952dfbd0b42e35f505e8794a2a5ff3f11",
+    "first_frame_pixels_sha256": "080e86c56ca0d62cd1d31e5acb439207ee13ebf06d99aecb668bf8aedac4b9a7",
+    "source_path_original": "x280_decoded_assets/1418F8_0488_010.bmp",
+    "visual_sha256_rgba_normalized": "a4af1c9ac969bf4dd8c08509c5f4005ab0912c51698b93e81fc7b52a4d999858",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      25
+    ]
+  },
+  {
+    "index": 26,
+    "file": "1418F8_06a0_011.bmp",
+    "path_in_bundle": "x280_decoded_assets/1418F8_06a0_011.bmp",
+    "format": "BMP",
+    "dimensions": [
+      30,
+      26
+    ],
+    "frames": 1,
+    "source": "ZIMG 1418F8+0x6A0",
+    "sha256_file": "fc56615516c0448741c5d4f8d626ae516a92f3c409169028a5b3f05086153740",
+    "first_frame_pixels_sha256": "b4fc073fde09b8fc5d991f519f9b0b7d31d757ef40c5c4271e8114ac801a6cba",
+    "source_path_original": "x280_decoded_assets/1418F8_06a0_011.bmp",
+    "visual_sha256_rgba_normalized": "6abdd8de1dca2d923dbffa579c3254d45df2eacf55fefa91a94b9bc83ff4b4bf",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      26
+    ]
+  },
+  {
+    "index": 27,
+    "file": "1418F8_08b8_012.bmp",
+    "path_in_bundle": "x280_decoded_assets/1418F8_08b8_012.bmp",
+    "format": "BMP",
+    "dimensions": [
+      30,
+      26
+    ],
+    "frames": 1,
+    "source": "ZIMG 1418F8+0x8B8",
+    "sha256_file": "273ae719c47ff7f6055b8955cd5213f77a7908423261f7b215f0fb34a0aa3a55",
+    "first_frame_pixels_sha256": "28b018448b253e3a3e20302eadc2219fceb6d6ec63e6a355cd8b0fda3ea172ba",
+    "source_path_original": "x280_decoded_assets/1418F8_08b8_012.bmp",
+    "visual_sha256_rgba_normalized": "788d8e5348545f6a284c1d1cd2ecbcd247c9f160bdb569580c77cdf0318c3ca9",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      27
+    ]
+  },
+  {
+    "index": 28,
+    "file": "143D58_000c_013.gif",
+    "path_in_bundle": "x280_decoded_assets/143D58_000c_013.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 143D58+0xC",
+    "sha256_file": "de3279115e2927cb077ffa309395ee0e0d070c40b2fd59ecd321080bcc5504d0",
+    "first_frame_pixels_sha256": "6ffba241040b3081043e3788d5cb810a36b082181188da01fc2a7a34d620bb5f",
+    "source_path_original": "x280_decoded_assets/143D58_000c_013.gif",
+    "visual_sha256_rgba_normalized": "2738f1e49d385d4995b2f0da4b4fe29b705add7bfb79bebb0fe015c183f5e34b",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      28
+    ]
+  },
+  {
+    "index": 29,
+    "file": "143D58_0539_014.gif",
+    "path_in_bundle": "x280_decoded_assets/143D58_0539_014.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 143D58+0x539",
+    "sha256_file": "5c332d81934caf3f4ea6b118bad30f340c497f06bd07719e8bc70aefff72e6f0",
+    "first_frame_pixels_sha256": "7ef27646ec5aaeaeddf6f2d0f2df2b33c39785b3bb44f102960b39d8a457a993",
+    "source_path_original": "x280_decoded_assets/143D58_0539_014.gif",
+    "visual_sha256_rgba_normalized": "ad27646b254d6ff64d357c888a6aade7f2e831a247280d81c8c010495b864d4e",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      29
+    ]
+  },
+  {
+    "index": 30,
+    "file": "1447B8_000c_015.gif",
+    "path_in_bundle": "x280_decoded_assets/1447B8_000c_015.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 1447B8+0xC",
+    "sha256_file": "4ff84d536edc6f04ed39e64f5170b57aa50c650565c9c4fcb778ded22f37e86e",
+    "first_frame_pixels_sha256": "bfede156dc0d7d03b090a96ea81c3c7a508c14720de3441ed482a20feefd025f",
+    "source_path_original": "x280_decoded_assets/1447B8_000c_015.gif",
+    "visual_sha256_rgba_normalized": "8c375218a8d3c384b00e102ff6ec63d3ad409f3af3954d8ea7544dc817f07cdf",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      30
+    ]
+  },
+  {
+    "index": 31,
+    "file": "1447B8_04e7_016.gif",
+    "path_in_bundle": "x280_decoded_assets/1447B8_04e7_016.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 1447B8+0x4E7",
+    "sha256_file": "e08e86570d31c8dc90771f4408880e9c650158536ed3ac18b9da92b96c53bf4d",
+    "first_frame_pixels_sha256": "2a5dccb90b4468a06e7ed9d6c7aeffd903ea35def743510bbf0a6ae1a6469059",
+    "source_path_original": "x280_decoded_assets/1447B8_04e7_016.gif",
+    "visual_sha256_rgba_normalized": "e54c09c819e26efb1dade5f62a016814a91bf9b069a95c88c49297ec64e740ab",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      31
+    ]
+  },
+  {
+    "index": 32,
+    "file": "1450F0_000c_017.gif",
+    "path_in_bundle": "x280_decoded_assets/1450F0_000c_017.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 1450F0+0xC",
+    "sha256_file": "b77be18c86f6dbbeb1ce5de657e12c9b72595325993918c1915d0b46fdb60ec2",
+    "first_frame_pixels_sha256": "d77cf806324a81f703d5a4cc641cc71d765437777c1f45882ebaf61b5c8404d7",
+    "source_path_original": "x280_decoded_assets/1450F0_000c_017.gif",
+    "visual_sha256_rgba_normalized": "aacb9a6e0d34a22386a6ce4dacfc19b410e8b8be08c58601942fdefc5b89dc27",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      32
+    ]
+  },
+  {
+    "index": 33,
+    "file": "1450F0_0470_018.gif",
+    "path_in_bundle": "x280_decoded_assets/1450F0_0470_018.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 1450F0+0x470",
+    "sha256_file": "84034c446af6f82edeba3be231ecc5ac9e1267ec59c6b63fd4b0a9b248136e9e",
+    "first_frame_pixels_sha256": "64e2ed378824700e2b1a991970a0c9430d51a584aec85a0df1c3b46b0003fd30",
+    "source_path_original": "x280_decoded_assets/1450F0_0470_018.gif",
+    "visual_sha256_rgba_normalized": "474aff0e1af028aacce9b9f632386195a2b8ee9fc315a7e77b85103d300e5d7e",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      33
+    ]
+  },
+  {
+    "index": 34,
+    "file": "145934_000c_019.gif",
+    "path_in_bundle": "x280_decoded_assets/145934_000c_019.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 145934+0xC",
+    "sha256_file": "47e122d2914de834851ec29a721bfc8c18e46a988bf83688e1eabc7413879ddc",
+    "first_frame_pixels_sha256": "8c907c8ab2f93f7d162021324c70438f9140360ea485a22e7f17d290301d2812",
+    "source_path_original": "x280_decoded_assets/145934_000c_019.gif",
+    "visual_sha256_rgba_normalized": "83d934753aedb9e0c56929c087785530886e9e29fe3e6d71c7b046d7633af927",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      34
+    ]
+  },
+  {
+    "index": 35,
+    "file": "145934_0414_020.gif",
+    "path_in_bundle": "x280_decoded_assets/145934_0414_020.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 145934+0x414",
+    "sha256_file": "ff1386a8d10384a13cf0930d5243c49552c4a829ca3d47c35169c13c0c5afa57",
+    "first_frame_pixels_sha256": "9835d6e04770b7b7eec9bb2c3ea0b0389b1e6a16f2a8b1e1598ce53840d2fbba",
+    "source_path_original": "x280_decoded_assets/145934_0414_020.gif",
+    "visual_sha256_rgba_normalized": "610f9bcee082f7d9282036ce3285dd3f2a832e545d8eaddddf351834573fc157",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      35
+    ]
+  },
+  {
+    "index": 36,
+    "file": "145934_07ce_021.gif",
+    "path_in_bundle": "x280_decoded_assets/145934_07ce_021.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 145934+0x7CE",
+    "sha256_file": "85f1e2845652da4f93f0a7dfd700577491d23fa8f8cd0bb68d2150f92f65b8bd",
+    "first_frame_pixels_sha256": "27283265dde3e1ce2648a745a3112c4aa74262e884c5d0b16aee84cfd78c0c07",
+    "source_path_original": "x280_decoded_assets/145934_07ce_021.gif",
+    "visual_sha256_rgba_normalized": "8b17ed3e7697979816d4f28ea76105d4b86d417470a5b73ce1e9709f6362f991",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      36
+    ]
+  },
+  {
+    "index": 37,
+    "file": "1463C4_000c_022.gif",
+    "path_in_bundle": "x280_decoded_assets/1463C4_000c_022.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 1463C4+0xC",
+    "sha256_file": "0f711adfc56f182774682288cd2b022a2e681f82ff33807951597f03d86cbde3",
+    "first_frame_pixels_sha256": "88477cbe0a87b9a2788d8617852cd691d7fc24d1d439add7be84f90375afe585",
+    "source_path_original": "x280_decoded_assets/1463C4_000c_022.gif",
+    "visual_sha256_rgba_normalized": "4103b4aa3820e04f9b2b114a8cad34a51774dc85749148adc25dd7bd1712720f",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      37
+    ]
+  },
+  {
+    "index": 38,
+    "file": "1463C4_0308_023.gif",
+    "path_in_bundle": "x280_decoded_assets/1463C4_0308_023.gif",
+    "format": "GIF",
+    "dimensions": [
+      87,
+      56
+    ],
+    "frames": 1,
+    "source": "ZIMG 1463C4+0x308",
+    "sha256_file": "c4b8c4c3b9a065b6a3f9a9526b10443f5c5c31f417f827e1669255ba2a7817cf",
+    "first_frame_pixels_sha256": "7d56252ad9b3ea15fad58c959cb7a077cc0a75cd8bb601eb12cde0507436c4dd",
+    "source_path_original": "x280_decoded_assets/1463C4_0308_023.gif",
+    "visual_sha256_rgba_normalized": "ebd96015096f5a3eb9bc85ec7d831a3cb2abd419563259ff6e9f8cab3d3c802e",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      38
+    ]
+  },
+  {
+    "index": 39,
+    "file": "1463C4_07c8_024.gif",
+    "path_in_bundle": "x280_decoded_assets/1463C4_07c8_024.gif",
+    "format": "GIF",
+    "dimensions": [
+      39,
+      42
+    ],
+    "frames": 1,
+    "source": "ZIMG 1463C4+0x7C8",
+    "sha256_file": "14caba32aa9b851756433ac028778712f5f444bcf5787f09d23b2a742e6cec5b",
+    "first_frame_pixels_sha256": "bf85e195c99fa90a9f59815091218a2266f9e5967c213bcce4f6529612f8ad9d",
+    "source_path_original": "x280_decoded_assets/1463C4_07c8_024.gif",
+    "visual_sha256_rgba_normalized": "aa20ebbe03600783c778383277d0bcdf05d9a8531212a07c6638806d1b5a017c",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      39
+    ]
+  },
+  {
+    "index": 40,
+    "file": "1463C4_0933_025.gif",
+    "path_in_bundle": "x280_decoded_assets/1463C4_0933_025.gif",
+    "format": "GIF",
+    "dimensions": [
+      42,
+      42
+    ],
+    "frames": 1,
+    "source": "ZIMG 1463C4+0x933",
+    "sha256_file": "776644390d2187a113ab1c475e1ba2cfc88a7696a6bf339a0bbe492d1f946777",
+    "first_frame_pixels_sha256": "a899f730ee719848e2f905bdde9e495706fe9d4c72c9761beb44b992573dc063",
+    "source_path_original": "x280_decoded_assets/1463C4_0933_025.gif",
+    "visual_sha256_rgba_normalized": "049c8a97a07fc7e520bd74c50f096ea38f711349caf4f11657bf634cb39ad82a",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      40
+    ]
+  },
+  {
+    "index": 41,
+    "file": "15158C_0296_026.gif",
+    "path_in_bundle": "x280_decoded_assets/15158C_0296_026.gif",
+    "format": "GIF",
+    "dimensions": [
+      10,
+      15
+    ],
+    "frames": 1,
+    "source": "ZIMG 15158C+0x296",
+    "sha256_file": "0a5c6fe32f79b7b7dc48f94fd58481bb46ae7d434a771564a4b7474c8c53405e",
+    "first_frame_pixels_sha256": "07275413be8fbf0f0a5421c1422e840c32292d780b9c376eeb8aee1275486c32",
+    "source_path_original": "x280_decoded_assets/15158C_0296_026.gif",
+    "visual_sha256_rgba_normalized": "f35d0d55c41626e3491ee15ca051daf5e48cff6f825e5860770a726e07804e17",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      41
+    ]
+  },
+  {
+    "index": 42,
+    "file": "15158C_02ff_027.gif",
+    "path_in_bundle": "x280_decoded_assets/15158C_02ff_027.gif",
+    "format": "GIF",
+    "dimensions": [
+      10,
+      15
+    ],
+    "frames": 1,
+    "source": "ZIMG 15158C+0x2FF",
+    "sha256_file": "142fc6b272e5530bb15fd6ed3c8453f07c597e05cdc43436c010e5e110db39f4",
+    "first_frame_pixels_sha256": "c8aebe759a8636dfd6186cc17dc8486bbdf08e2cf6d167d0e61c755aad6a6b6b",
+    "source_path_original": "x280_decoded_assets/15158C_02ff_027.gif",
+    "visual_sha256_rgba_normalized": "bb483e6ed266f3a1168530811a6a0b2d1a63ad7f257234952923f2ae036e6d19",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      42
+    ]
+  },
+  {
+    "index": 43,
+    "file": "151C04_000c_028.gif",
+    "path_in_bundle": "x280_decoded_assets/151C04_000c_028.gif",
+    "format": "GIF",
+    "dimensions": [
+      76,
+      41
+    ],
+    "frames": 6,
+    "source": "ZIMG 151C04+0x0C",
+    "sha256_file": "f87f8d91f6c2c151c8b7180e019528e6fbc300008de61d4fd35d49582953ab27",
+    "first_frame_pixels_sha256": "69544f6dd1426001688c79f896abd225a338e9a213302fe0e66cf9643f3a626a",
+    "source_path_original": "x280_decoded_assets/151C04_000c_028.gif",
+    "visual_sha256_rgba_normalized": "9cf7cfb7e8ed268fad31d2aaa91d1a649064a0e3c75e090a142ff19ae2cf3ff8",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      43
+    ]
+  },
+  {
+    "index": 44,
+    "file": "151C04_03cd_029.gif",
+    "path_in_bundle": "x280_decoded_assets/151C04_03cd_029.gif",
+    "format": "GIF",
+    "dimensions": [
+      76,
+      41
+    ],
+    "frames": 1,
+    "source": "ZIMG 151C04+0x3CD",
+    "sha256_file": "36595863be0aa40e4617d0931e6ce7127f0134da06bf34a43d996bb71ea28abe",
+    "first_frame_pixels_sha256": "69a0eec305bf433e44d7266206d05a142fdb8ee2859e37d36f2d1caef13ebaa1",
+    "source_path_original": "x280_decoded_assets/151C04_03cd_029.gif",
+    "visual_sha256_rgba_normalized": "8f296ea52872ceb88f26bd26fac496e1b6fc8b3941012c33a089cc764f8a7939",
+    "collection": "previously extracted file/resource",
+    "same_pixels_indices": [
+      44
+    ]
+  },
+  {
+    "index": 45,
+    "file": "ab2_13D144_0000072E_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_13D144_0000072E_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 13D144_0000072E.bin +0x4",
+    "sha256_file": "3b5f1c7a070f849bc2be906b2e6cbec19006a533c50585a35d14dba3ce07c9ca",
+    "visual_sha256_rgba_normalized": "1282be46d3d29bbfc036185539058e7e50c16445862d9640660b371aba0e653d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 210,
+      "boundaries": [
+        1,
+        3,
+        1,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 18,
+      "alpha_colors": 0,
+      "rle_runs": 71,
+      "decoded_pixels": 456
+    },
+    "same_pixels_indices": [
+      45
+    ]
+  },
+  {
+    "index": 46,
+    "file": "ab2_13D144_0000072E_00E2_11x14.png",
+    "path_in_bundle": "x280_assets/ab2_13D144_0000072E_00E2_11x14.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      11,
+      14
+    ],
+    "frames": 1,
+    "source": "AB2 inner 13D144_0000072E.bin +0xe2",
+    "sha256_file": "18c33d359b82a604b3749f8bbe3c2a70b9fb0a3005ffb87808ec45d2c14f62a7",
+    "visual_sha256_rgba_normalized": "5ed736504960a409731066cb6a13501ff919510396bf2ae708dd9d3da9f2ad1a",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 156,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 8,
+      "alpha_colors": 10,
+      "rle_runs": 43,
+      "decoded_pixels": 154
+    },
+    "same_pixels_indices": [
+      46
+    ]
+  },
+  {
+    "index": 47,
+    "file": "ab2_13D144_0000072E_018A_11x14.png",
+    "path_in_bundle": "x280_assets/ab2_13D144_0000072E_018A_11x14.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      11,
+      14
+    ],
+    "frames": 1,
+    "source": "AB2 inner 13D144_0000072E.bin +0x18a",
+    "sha256_file": "18182cb1632518b01341fc928566bc8592e2bcf490ae5b5878989d22e28aecff",
+    "visual_sha256_rgba_normalized": "bb39291edf22037db5e59e49b853e966d4a43091e526d60c9b046b0455d1719c",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 150,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 6,
+      "rle_runs": 23,
+      "decoded_pixels": 154
+    },
+    "same_pixels_indices": [
+      47
+    ]
+  },
+  {
+    "index": 48,
+    "file": "ab2_13D144_0000072E_022C_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_13D144_0000072E_022C_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 13D144_0000072E.bin +0x22c",
+    "sha256_file": "81320782f259beb526e9d89f736bf8a8bdb609643286dc1970bb5270ed48bf67",
+    "visual_sha256_rgba_normalized": "8301fd6663d9e7437d86205a7f89146565d779e2d3d31e04aa21c4aa3d3d40b1",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 814,
+      "boundaries": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 187,
+      "alpha_colors": 0,
+      "rle_runs": 67,
+      "decoded_pixels": 484
+    },
+    "same_pixels_indices": [
+      48
+    ]
+  },
+  {
+    "index": 49,
+    "file": "ab2_13D144_0000072E_0566_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_13D144_0000072E_0566_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 13D144_0000072E.bin +0x566",
+    "sha256_file": "27da26246e2a5b86ad739d0efe4f7f160cf900161b9cdc2bc2d27b68ac280bfe",
+    "visual_sha256_rgba_normalized": "87e0a156ea072e6db6d03c7dfbb14c37679e345f1c606f8da58ee833af657328",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 116,
+      "boundaries": [
+        2,
+        4,
+        2,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 55,
+      "decoded_pixels": 396
+    },
+    "same_pixels_indices": [
+      49
+    ]
+  },
+  {
+    "index": 50,
+    "file": "ab2_13D144_0000072E_05E6_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_13D144_0000072E_05E6_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 13D144_0000072E.bin +0x5e6",
+    "sha256_file": "ab73759e0831dc964f14b84bce326e3780ecbe38b130f282508d41d961cb01bc",
+    "visual_sha256_rgba_normalized": "98ea47acb5fad7fc2ab122cceb1a5416be5a4d75c18bea3554bc235c7b3e7935",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 158,
+      "boundaries": [
+        2,
+        3,
+        3,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 7,
+      "alpha_colors": 0,
+      "rle_runs": 78,
+      "decoded_pixels": 420
+    },
+    "same_pixels_indices": [
+      50
+    ]
+  },
+  {
+    "index": 51,
+    "file": "ab2_13D144_0000072E_0690_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_13D144_0000072E_0690_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 13D144_0000072E.bin +0x690",
+    "sha256_file": "52b8e1434026c5d8b3a6b1919abb476719764f59aef8b08f4ca0950683664a21",
+    "visual_sha256_rgba_normalized": "38755d05831cbb53023502454503a17cb78de017c54ec448386592301a4e0919",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 150,
+      "boundaries": [
+        4,
+        3,
+        4,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 5,
+      "alpha_colors": 0,
+      "rle_runs": 75,
+      "decoded_pixels": 360
+    },
+    "same_pixels_indices": [
+      51
+    ]
+  },
+  {
+    "index": 52,
+    "file": "ab2_1418F8_00000AD0_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1418F8_00000AD0_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1418F8_00000AD0.bin +0x4",
+    "sha256_file": "cd9fc5675f31d98d5abdd89b292bdb835086e821683d36127422f0e249e24496",
+    "visual_sha256_rgba_normalized": "de5e1b0704d9af905782850f704f729015f5a4670fc633553df2e9f27cc51183",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 552,
+      "boundaries": [
+        5,
+        2,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 96,
+      "alpha_colors": 0,
+      "rle_runs": 76,
+      "decoded_pixels": 504
+    },
+    "same_pixels_indices": [
+      52
+    ]
+  },
+  {
+    "index": 53,
+    "file": "ab2_141DA8_00000B56_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x4",
+    "sha256_file": "a3993538880e615a3a1041717b1e4b6e809bf6e14dd2d4585ab111eda892db85",
+    "visual_sha256_rgba_normalized": "0f67c20d5560e8b944a6cd1d28921550916c067827921549e1cb309bda97209c",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 348,
+      "boundaries": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 26,
+      "alpha_colors": 0,
+      "rle_runs": 100,
+      "decoded_pixels": 625
+    },
+    "same_pixels_indices": [
+      53
+    ]
+  },
+  {
+    "index": 54,
+    "file": "ab2_141DA8_00000B56_016C_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_016C_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x16c",
+    "sha256_file": "96aa4852fdce39fd9a06cfbca4984ca747593bd6dee19839aebe18ce1e7487a9",
+    "visual_sha256_rgba_normalized": "66f105f28029fd854661da6c95bf437158ba475e5630f8a4071574a06777dca6",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 342,
+      "boundaries": [
+        2,
+        2,
+        2,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 58,
+      "alpha_colors": 0,
+      "rle_runs": 51,
+      "decoded_pixels": 462
+    },
+    "same_pixels_indices": [
+      54
+    ]
+  },
+  {
+    "index": 55,
+    "file": "ab2_141DA8_00000B56_02CE_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_02CE_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x2ce",
+    "sha256_file": "71f21ee9a3bd51219e40979a68946b661f0465b196faa26feb0581bf334c4c18",
+    "visual_sha256_rgba_normalized": "f712b9bbbb182decf2b54ec5a2562519c687f2103542ce817c9760bd75ad2652",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 242,
+      "boundaries": [
+        5,
+        2,
+        5,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 30,
+      "alpha_colors": 0,
+      "rle_runs": 54,
+      "decoded_pixels": 336
+    },
+    "same_pixels_indices": [
+      55,
+      100
+    ]
+  },
+  {
+    "index": 56,
+    "file": "ab2_141DA8_00000B56_03CC_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_03CC_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x3cc",
+    "sha256_file": "9b7361d296172eed5340e51d93aa5bdd6f317c4d730fdbd468d15a58cb09dbe2",
+    "visual_sha256_rgba_normalized": "7de0a7231706b56eecd14df2c4221774b44aceeabaa2c73457b81700600b412f",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 234,
+      "boundaries": [
+        2,
+        3,
+        1,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 9,
+      "alpha_colors": 0,
+      "rle_runs": 75,
+      "decoded_pixels": 460
+    },
+    "same_pixels_indices": [
+      56
+    ]
+  },
+  {
+    "index": 57,
+    "file": "ab2_141DA8_00000B56_04C2_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_04C2_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x4c2",
+    "sha256_file": "1c6febe8d939f90925d8b837c83397e66bd025bc26978aaf47717225794b8e9d",
+    "visual_sha256_rgba_normalized": "bae11c79c82b081fdb74712f3179f797ded90b01c53add5c6738d135e57a7425",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 122,
+      "boundaries": [
+        4,
+        2,
+        3,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 6,
+      "alpha_colors": 0,
+      "rle_runs": 48,
+      "decoded_pixels": 418
+    },
+    "same_pixels_indices": [
+      57
+    ]
+  },
+  {
+    "index": 58,
+    "file": "ab2_141DA8_00000B56_0548_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_0548_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x548",
+    "sha256_file": "2a15a4db14d6f42d291f28029b9ae452eef128c5a066bf3e27127d43acf64472",
+    "visual_sha256_rgba_normalized": "2de36cbad696324b454f8424f7c2a7fb6eb6805beb9cb21fac2178efbf6b4576",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 88,
+      "boundaries": [
+        3,
+        13,
+        6,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 7,
+      "alpha_colors": 0,
+      "rle_runs": 11,
+      "decoded_pixels": 170
+    },
+    "same_pixels_indices": [
+      58
+    ]
+  },
+  {
+    "index": 59,
+    "file": "ab2_141DA8_00000B56_05AC_31x25.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_05AC_31x25.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      31,
+      25
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x5ac",
+    "sha256_file": "7f428857d6571b4678181503e92e87328cd149a515d81289c4697a383269c6dc",
+    "visual_sha256_rgba_normalized": "4d224e62c179ac0c4e55a72916e749105a35245e92156a163e6770c7acf90bad",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 90,
+      "boundaries": [
+        4,
+        3,
+        4,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 58,
+      "decoded_pixels": 437
+    },
+    "same_pixels_indices": [
+      59
+    ]
+  },
+  {
+    "index": 60,
+    "file": "ab2_141DA8_00000B56_0612_43x51.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_0612_43x51.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      43,
+      51
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x612",
+    "sha256_file": "2875cbff68097498b5c980cbc3e8c6a85d065f741df1a81cbd9b94d739640e3e",
+    "visual_sha256_rgba_normalized": "bd3705dcb7a2b64f52f5fb3d7fcf0dc982e2b956b81968bd49903bff3d7064d9",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 518,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 310,
+      "decoded_pixels": 2193
+    },
+    "same_pixels_indices": [
+      60
+    ]
+  },
+  {
+    "index": 61,
+    "file": "ab2_141DA8_00000B56_0824_30x30.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_0824_30x30.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      30,
+      30
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x824",
+    "sha256_file": "be908dbb9852fbe4f5287c09d13e29e72b22bb198a0e617a134167c7b57c9f35",
+    "visual_sha256_rgba_normalized": "ea26d622f5558ae1ad7308e7f11f4a2ab78c3a6f6b57acf61c7401ab8743197f",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 316,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 9,
+      "alpha_colors": 0,
+      "rle_runs": 140,
+      "decoded_pixels": 900
+    },
+    "same_pixels_indices": [
+      61
+    ]
+  },
+  {
+    "index": 62,
+    "file": "ab2_141DA8_00000B56_09C0_159x8.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_09C0_159x8.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      159,
+      8
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0x9c0",
+    "sha256_file": "bd92a6509298fd2fa3f2f5dc6658c095586077f8771e71ebe860926e8e23db36",
+    "visual_sha256_rgba_normalized": "7b6e0944076b23eab5cefd00fb899e3b4b0dbc3b78a0b30597de0404785f85f0",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 334,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 248,
+      "decoded_pixels": 1272
+    },
+    "same_pixels_indices": [
+      62
+    ]
+  },
+  {
+    "index": 63,
+    "file": "ab2_141DA8_00000B56_0B1A_15x8.png",
+    "path_in_bundle": "x280_assets/ab2_141DA8_00000B56_0B1A_15x8.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      15,
+      8
+    ],
+    "frames": 1,
+    "source": "AB2 inner 141DA8_00000B56.bin +0xb1a",
+    "sha256_file": "17deaad4c2ddd3df786df95a798dc717cb49c32be9f6e1d336067ab983c3e833",
+    "visual_sha256_rgba_normalized": "3c3e46a58e92b4852a79bb18211ee6e7a003a625b8ceab1773df838b2cea8e2a",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 52,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 8,
+      "alpha_colors": 0,
+      "rle_runs": 16,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      63
+    ]
+  },
+  {
+    "index": 64,
+    "file": "ab2_142644_00000B1A_0004_34x12.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0004_34x12.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      34,
+      12
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x4",
+    "sha256_file": "2d7d3a0da868db950f9b38e3226435915484fc3d538db95aa65aa4e119686c41",
+    "visual_sha256_rgba_normalized": "4341dbc9ddf41d96bbf23f9044d8173a899e6385779741f2ba20e1a0c9abc9e3",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 186,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 1,
+      "alpha_colors": 35,
+      "rle_runs": 26,
+      "decoded_pixels": 408
+    },
+    "same_pixels_indices": [
+      64
+    ]
+  },
+  {
+    "index": 65,
+    "file": "ab2_142644_00000B1A_00CA_34x12.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_00CA_34x12.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      34,
+      12
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0xca",
+    "sha256_file": "05ccfbbf0fe061c69bbc355b4a48352fe3f0ba92940448fc641e9fbebdc19b87",
+    "visual_sha256_rgba_normalized": "fe441941a4f99a6224a51840d6beddefc07643252d80436b2437842cd5de350f",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 186,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 1,
+      "alpha_colors": 35,
+      "rle_runs": 26,
+      "decoded_pixels": 408
+    },
+    "same_pixels_indices": [
+      65
+    ]
+  },
+  {
+    "index": 66,
+    "file": "ab2_142644_00000B1A_0190_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0190_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x190",
+    "sha256_file": "d5e1503fd28ccf79542c9bf5b4dffa411d016adbc9408236edde1889ab59c4a2",
+    "visual_sha256_rgba_normalized": "d82782c8fd7b62fdaf1fb977c98c3538798973084093df09609c6f28de675a5c",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 154,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 51,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      66
+    ]
+  },
+  {
+    "index": 67,
+    "file": "ab2_142644_00000B1A_0236_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0236_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x236",
+    "sha256_file": "11f0f3f9b56277b4d6121886fce7812a5a8550deb5e0431886fec5d95d27331e",
+    "visual_sha256_rgba_normalized": "b600ecedcaa3cb7e078079fdb8bf018e90ea124ee99f44d0452ea02d9e4fe6a1",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 160,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 0,
+      "rle_runs": 45,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      67
+    ]
+  },
+  {
+    "index": 68,
+    "file": "ab2_142644_00000B1A_02E2_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_02E2_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x2e2",
+    "sha256_file": "a94418a828e20d1e11eeac2b0d828ba4f93ee497819728644f262739e8ac15a1",
+    "visual_sha256_rgba_normalized": "ce357205e4912372c28edc00aebcc38f411c1a02f15081f305a365abe00164f4",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 124,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 50,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      68
+    ]
+  },
+  {
+    "index": 69,
+    "file": "ab2_142644_00000B1A_036A_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_036A_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x36a",
+    "sha256_file": "0b42a96392bff754eda9b8f90689d27f856d0fcab6301edb68a67d46dbf466bd",
+    "visual_sha256_rgba_normalized": "855409448f0fa9bab811b3b7e87e460b000582037525d654b7f7269c19de74bf",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 124,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 50,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      69
+    ]
+  },
+  {
+    "index": 70,
+    "file": "ab2_142644_00000B1A_03F2_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_03F2_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x3f2",
+    "sha256_file": "ffd08579fbad00508fecdce0376503de1239751b944eae9684778d99c70579bc",
+    "visual_sha256_rgba_normalized": "c22c6072c422e88e5e83b9f473efb111f4fd49b175d39801e1579d7423ec015d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 106,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 9,
+      "alpha_colors": 0,
+      "rle_runs": 46,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      70
+    ]
+  },
+  {
+    "index": 71,
+    "file": "ab2_142644_00000B1A_0468_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0468_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x468",
+    "sha256_file": "53f63c4f5c927b3bb3048804bb9c4fdde142827c1740ba867c5561ddbe260333",
+    "visual_sha256_rgba_normalized": "2ac67f2335fc8220ed7db5d75947effeaf0928af2da02d6a4f30d8e6f31dc684",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 110,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 47,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      71
+    ]
+  },
+  {
+    "index": 72,
+    "file": "ab2_142644_00000B1A_04E2_43x21.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_04E2_43x21.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      43,
+      21
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x4e2",
+    "sha256_file": "cc90784600ca8654e4a82de779a33fd29651dd3343da4053ab7fb466ddafdda7",
+    "visual_sha256_rgba_normalized": "04313c9c54136b99f860793b1ec1a07a8da9d797c3862330497984b059cdc0ac",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 88,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 4,
+      "alpha_colors": 0,
+      "rle_runs": 45,
+      "decoded_pixels": 903
+    },
+    "same_pixels_indices": [
+      72
+    ]
+  },
+  {
+    "index": 73,
+    "file": "ab2_142644_00000B1A_071C_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_071C_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x71c",
+    "sha256_file": "897a5e21a409dc902571ed3fe19e9ce47b6f5f6a62ea9c259a5e86c2263e17b2",
+    "visual_sha256_rgba_normalized": "1244281a8c492dc3069b7955499015ac6a2ebe5903da642ee1ce75e3c02dda2b",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 96,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 36,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      73
+    ]
+  },
+  {
+    "index": 74,
+    "file": "ab2_142644_00000B1A_0788_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0788_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x788",
+    "sha256_file": "e4c1d38e0f786adebce9581101ceae77bd7cfc94db13f79ec52e8f809f52c12f",
+    "visual_sha256_rgba_normalized": "4e9eb632d4eed69fac00cbcc81c8d65764e86a6dd4365497119bd2c9a58a639a",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 68,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 23,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      74
+    ]
+  },
+  {
+    "index": 75,
+    "file": "ab2_142644_00000B1A_07D8_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_07D8_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x7d8",
+    "sha256_file": "5730cf76d8b9363ba6700f2a1c43b7687def904d31f622cb9df7dede193e4d8d",
+    "visual_sha256_rgba_normalized": "e978a1f372651e2574b9fa14f1756b01be4adb16307d17170b1f6ded9edb4860",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 40,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 19,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      75
+    ]
+  },
+  {
+    "index": 76,
+    "file": "ab2_142644_00000B1A_080C_8x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_080C_8x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x80c",
+    "sha256_file": "93faf5ee067b5fe7663a27d6b7ff17960e3775909f822d87b5c275e88ff57dc0",
+    "visual_sha256_rgba_normalized": "6ca8a9da7a61852086837804fdbc66de0e2c9e4171ca5e53543a901a53ec18fd",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 46,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 5,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      76
+    ]
+  },
+  {
+    "index": 77,
+    "file": "ab2_142644_00000B1A_0846_8x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0846_8x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x846",
+    "sha256_file": "2030948bee066f29d049c36dd6ac2a68b4c2e24336e9e9c30541386390865c9b",
+    "visual_sha256_rgba_normalized": "b35a5b2a52a4c2bb9e39f38aa175badb600f42a3527b51845b0bf7d067592ef8",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 44,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 21,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      77
+    ]
+  },
+  {
+    "index": 78,
+    "file": "ab2_142644_00000B1A_08F2_8x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_08F2_8x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x8f2",
+    "sha256_file": "ecfa9619e8d5e9ed7f8e1b01b00699cd23231ae311e2fca8d9939608187ce2c1",
+    "visual_sha256_rgba_normalized": "0429501d7a397f673c28997bf1897c595d166ab3f673bdab4d050a87b19fa5e9",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 44,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 13,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      78
+    ]
+  },
+  {
+    "index": 79,
+    "file": "ab2_142644_00000B1A_0964_8x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0964_8x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x964",
+    "sha256_file": "c5d014a86d3e3c4fdade0af5810d681e57811843eb71b9496074c00e56739cf9",
+    "visual_sha256_rgba_normalized": "283987f62ac9d6eaeafa3b914489466b291c24c1e7028506e12277ec517b9279",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 46,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 13,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      79
+    ]
+  },
+  {
+    "index": 80,
+    "file": "ab2_142644_00000B1A_099E_8x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_099E_8x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x99e",
+    "sha256_file": "845fdaf79337c35d18d3b9d562351554359db287c8b5a1a4c2e0cf87f84c2f14",
+    "visual_sha256_rgba_normalized": "cce91559021057fce50e8c1477836f3ca97b910e398615bd7ad9286b3b873b91",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 46,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 23,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      80
+    ]
+  },
+  {
+    "index": 81,
+    "file": "ab2_142644_00000B1A_09D8_8x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_09D8_8x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0x9d8",
+    "sha256_file": "8338f8310378471f2524c891f725d0db97f75b01810dbf927c0078ac94614070",
+    "visual_sha256_rgba_normalized": "2eddddd8f616a050397755f710d2b4615faf12512b9d2c661155161e88580032",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 46,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 3,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      81
+    ]
+  },
+  {
+    "index": 82,
+    "file": "ab2_142644_00000B1A_0A12_8x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0A12_8x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0xa12",
+    "sha256_file": "8a89ce10d98829e8bfb99dbe7472998883316ee3474e2dbcfe744d78c84916b2",
+    "visual_sha256_rgba_normalized": "bc48190fe788dbcca5c6440836a81ad9da9d46c3025f5ae899cd6d4f791d8a39",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 46,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 13,
+      "decoded_pixels": 120
+    },
+    "same_pixels_indices": [
+      82
+    ]
+  },
+  {
+    "index": 83,
+    "file": "ab2_142644_00000B1A_0A4C_7x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0A4C_7x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      7,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0xa4c",
+    "sha256_file": "9f38d10e0fd0bc0c3b86e177b4f5568362c05de143732159ceec16599cdca695",
+    "visual_sha256_rgba_normalized": "fd785d9d302e985d1dee0bbdc14095172c5bc7c700f606a2dd5c97aa9280884f",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 24,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 5,
+      "decoded_pixels": 105
+    },
+    "same_pixels_indices": [
+      83
+    ]
+  },
+  {
+    "index": 84,
+    "file": "ab2_142644_00000B1A_0A70_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142644_00000B1A_0A70_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142644_00000B1A.bin +0xa70",
+    "sha256_file": "2d8ada4bf1a0d0ed64274cf72d41b7d47d2b23d19221459ff8ea885446ed66ea",
+    "visual_sha256_rgba_normalized": "fbc72a5a80300727c8cb31da0cabeac15ab24d519d21699b8133deeb3ca8a8ac",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 162,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 8,
+      "alpha_colors": 0,
+      "rle_runs": 54,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      84
+    ]
+  },
+  {
+    "index": 85,
+    "file": "ab2_142C8C_00000A0C_0004_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_0004_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x4",
+    "sha256_file": "2a4d4c6a9468732094e49633bb4eb4f5b24890af9292b109e28ccf833ecadf14",
+    "visual_sha256_rgba_normalized": "88094d22a5694de4c5e2d63e006cc036b21f9e0923b472d67bb4c1089b75fae4",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 146,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 8,
+      "alpha_colors": 0,
+      "rle_runs": 44,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      85
+    ]
+  },
+  {
+    "index": 86,
+    "file": "ab2_142C8C_00000A0C_00A2_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_00A2_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0xa2",
+    "sha256_file": "62b661962b55162aef683a9ffa9623fa8f4f3d462698c469b1306087e95b663e",
+    "visual_sha256_rgba_normalized": "2f20088121df589bf83b3cd1565098880efe878d6dc70a09ce7a4f2f502886a0",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 152,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 9,
+      "alpha_colors": 0,
+      "rle_runs": 58,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      86
+    ]
+  },
+  {
+    "index": 87,
+    "file": "ab2_142C8C_00000A0C_0146_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_0146_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x146",
+    "sha256_file": "223adf3b772f2bcdae9b55e2c5e7bad748f8382d9abac072d0767e57626dcc26",
+    "visual_sha256_rgba_normalized": "5d757eb3edad7cadacf634b25f73c5b02cfd0cac3180830413489c73187ae593",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 88,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 9,
+      "alpha_colors": 0,
+      "rle_runs": 35,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      87
+    ]
+  },
+  {
+    "index": 88,
+    "file": "ab2_142C8C_00000A0C_01AA_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_01AA_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x1aa",
+    "sha256_file": "cd518ced8ec1ecadde7131d953879677f85bf0c3c45e04281830c0d8dfd15566",
+    "visual_sha256_rgba_normalized": "86af4250f912e686e6ee9740b9c652ac8855d7731698ebbb4e2864036d7e59cd",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 138,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 53,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      88
+    ]
+  },
+  {
+    "index": 89,
+    "file": "ab2_142C8C_00000A0C_0240_15x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_0240_15x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      15,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x240",
+    "sha256_file": "220bff373409f9807750d06613eb63ab53833faae1196b64a68c5cf4a311679f",
+    "visual_sha256_rgba_normalized": "8aff0e3fcdc08dfa584023ceae5735058643b09b686b2cf82cff6435ba25e3d8",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 98,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 6,
+      "alpha_colors": 0,
+      "rle_runs": 37,
+      "decoded_pixels": 225
+    },
+    "same_pixels_indices": [
+      89
+    ]
+  },
+  {
+    "index": 90,
+    "file": "ab2_142C8C_00000A0C_02AE_15x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_02AE_15x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      15,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x2ae",
+    "sha256_file": "b077a0d595e97c94aa0cdd03db43a66b6cb257e98c9d2eedcb4874adbd314fe1",
+    "visual_sha256_rgba_normalized": "6573b8554bfb1d04297c449991b8f3e384ddffbbc2acee3798cb8da8420775d6",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 102,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 6,
+      "alpha_colors": 0,
+      "rle_runs": 32,
+      "decoded_pixels": 225
+    },
+    "same_pixels_indices": [
+      90
+    ]
+  },
+  {
+    "index": 91,
+    "file": "ab2_142C8C_00000A0C_0320_15x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_0320_15x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      15,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x320",
+    "sha256_file": "1492b1d3cb17b1c5045c31dc6642966bce7db6f613450d5fe84c24d011cdb602",
+    "visual_sha256_rgba_normalized": "596e0016b814c0e04abd08161f51130b351986eb5d10815b483cf5c75bd60516",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 98,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 6,
+      "alpha_colors": 0,
+      "rle_runs": 37,
+      "decoded_pixels": 225
+    },
+    "same_pixels_indices": [
+      91
+    ]
+  },
+  {
+    "index": 92,
+    "file": "ab2_142C8C_00000A0C_038E_15x15.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_038E_15x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      15,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x38e",
+    "sha256_file": "2f0af06c9e43ef5b81a4bccd84320bba99a38932e8557ecffbc67162a01e5584",
+    "visual_sha256_rgba_normalized": "57898f19b96714e91fd7b5b30800c1a2bcc40a0d246a9fa3444f5f5f35bd3c3d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 102,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 6,
+      "alpha_colors": 0,
+      "rle_runs": 32,
+      "decoded_pixels": 225
+    },
+    "same_pixels_indices": [
+      92
+    ]
+  },
+  {
+    "index": 93,
+    "file": "ab2_142C8C_00000A0C_0400_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_0400_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x400",
+    "sha256_file": "ebc5011232dc4b45339ff1368583f363e52157c4a0be0be36757069078db8272",
+    "visual_sha256_rgba_normalized": "93d010a59b83ccf75a7ee696f1fc2c69c1894cb1161bc5816297d5b72f06e6c0",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 360,
+      "boundaries": [
+        1,
+        2,
+        2,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 23,
+      "alpha_colors": 0,
+      "rle_runs": 57,
+      "decoded_pixels": 529
+    },
+    "same_pixels_indices": [
+      93
+    ]
+  },
+  {
+    "index": 94,
+    "file": "ab2_142C8C_00000A0C_0574_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_0574_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x574",
+    "sha256_file": "3d87ff4430ccd3ed2184d5b204450af7b5419c9c63139df3e18d40bb5156706e",
+    "visual_sha256_rgba_normalized": "200a66ff9ddf94cdcc1e820ccc05cd15575dc1c880921e53e284be55926fd6e8",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 476,
+      "boundaries": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 84,
+      "alpha_colors": 0,
+      "rle_runs": 82,
+      "decoded_pixels": 552
+    },
+    "same_pixels_indices": [
+      94
+    ]
+  },
+  {
+    "index": 95,
+    "file": "ab2_142C8C_00000A0C_075C_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_142C8C_00000A0C_075C_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 142C8C_00000A0C.bin +0x75c",
+    "sha256_file": "991f7254ce04759acded051f0c20d71fc7fbf4c46f004761124702c4d18f9f88",
+    "visual_sha256_rgba_normalized": "d88f8d33126df71c192b71558b6544eedc62cfb8dbaf3839b50ade6cc07a6196",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 680,
+      "boundaries": [
+        1,
+        2,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 29,
+      "alpha_colors": 84,
+      "rle_runs": 83,
+      "decoded_pixels": 600
+    },
+    "same_pixels_indices": [
+      95
+    ]
+  },
+  {
+    "index": 96,
+    "file": "ab2_14354C_000008CA_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14354C_000008CA_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14354C_000008CA.bin +0x4",
+    "sha256_file": "e7e20f7e60fd4fe7b2883741def84bb7f3038bebad6a8f0bbfa00fe7eaf57d28",
+    "visual_sha256_rgba_normalized": "9f9883e3dee387b063eacbfc34a63be5133e81172b288009abfefca552fa34f6",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 664,
+      "boundaries": [
+        2,
+        0,
+        0,
+        3
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 95,
+      "rle_runs": 90,
+      "decoded_pixels": 552
+    },
+    "same_pixels_indices": [
+      96
+    ]
+  },
+  {
+    "index": 97,
+    "file": "ab2_14354C_000008CA_02A8_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14354C_000008CA_02A8_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14354C_000008CA.bin +0x2a8",
+    "sha256_file": "fcb83485d07e15a586a234a7904475ce9649a700343b66534a471381678b4bcd",
+    "visual_sha256_rgba_normalized": "029ed26df00bcca50a8993cf25e3293de34b30ef6a5f395875a1db202938d378",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 870,
+      "boundaries": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 28,
+      "alpha_colors": 106,
+      "rle_runs": 139,
+      "decoded_pixels": 625
+    },
+    "same_pixels_indices": [
+      97
+    ]
+  },
+  {
+    "index": 98,
+    "file": "ab2_14354C_000008CA_061A_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14354C_000008CA_061A_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14354C_000008CA.bin +0x61a",
+    "sha256_file": "782d1419a418f77eb89fb6cf99d88345add34299159d109654cc35dbfd0bbee7",
+    "visual_sha256_rgba_normalized": "b18c9ed6bb2375cb1dea94edb66153d7a5c8526bce7f43f94a3c7a27bfc6a8d2",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 680,
+      "boundaries": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 149,
+      "alpha_colors": 0,
+      "rle_runs": 85,
+      "decoded_pixels": 576
+    },
+    "same_pixels_indices": [
+      98
+    ]
+  },
+  {
+    "index": 99,
+    "file": "ab2_1463C4_00000B66_04F6_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1463C4_00000B66_04F6_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1463C4_00000B66.bin +0x4f6",
+    "sha256_file": "29538df896389f8902d8e220abcb985cccd24520d91e2a07040327633a679ec9",
+    "visual_sha256_rgba_normalized": "ada307fcd8c49ff808e4503c5b3dab51d63310a9b5bb3faf9ff5d9e41d5fb106",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 144,
+      "boundaries": [
+        5,
+        3,
+        6,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 8,
+      "alpha_colors": 0,
+      "rle_runs": 36,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      99
+    ]
+  },
+  {
+    "index": 100,
+    "file": "ab2_1463C4_00000B66_0592_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1463C4_00000B66_0592_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1463C4_00000B66.bin +0x592",
+    "sha256_file": "71f21ee9a3bd51219e40979a68946b661f0465b196faa26feb0581bf334c4c18",
+    "visual_sha256_rgba_normalized": "f712b9bbbb182decf2b54ec5a2562519c687f2103542ce817c9760bd75ad2652",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 242,
+      "boundaries": [
+        5,
+        2,
+        5,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 30,
+      "alpha_colors": 0,
+      "rle_runs": 54,
+      "decoded_pixels": 336
+    },
+    "same_pixels_indices": [
+      55,
+      100
+    ]
+  },
+  {
+    "index": 101,
+    "file": "ab2_1463C4_00000B66_0690_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1463C4_00000B66_0690_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1463C4_00000B66.bin +0x690",
+    "sha256_file": "89e287ef22cb46c826a994bccd26126675dd209f88c3444744d4b0188bb04fa3",
+    "visual_sha256_rgba_normalized": "7e5842856f1804e225fb2818344166d894fd905783c931347ee45c3bb2383d7a",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 132,
+      "boundaries": [
+        3,
+        3,
+        4,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 18,
+      "alpha_colors": 0,
+      "rle_runs": 46,
+      "decoded_pixels": 380
+    },
+    "same_pixels_indices": [
+      101
+    ]
+  },
+  {
+    "index": 102,
+    "file": "ab2_1463C4_00000B66_0720_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1463C4_00000B66_0720_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1463C4_00000B66.bin +0x720",
+    "sha256_file": "2a29b01b8f7c6d5df7a5faa0055c136d2223f94cdcd7863b09179b037854c5c9",
+    "visual_sha256_rgba_normalized": "2c5f6990d1223a6a89cf3eea60d5454342d292f0149f8c67ab6e50e5c37e5689",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 148,
+      "boundaries": [
+        4,
+        2,
+        3,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 6,
+      "alpha_colors": 0,
+      "rle_runs": 66,
+      "decoded_pixels": 418
+    },
+    "same_pixels_indices": [
+      102
+    ]
+  },
+  {
+    "index": 103,
+    "file": "ab2_1463C4_00000B66_0A46_16x16.png",
+    "path_in_bundle": "x280_assets/ab2_1463C4_00000B66_0A46_16x16.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      16,
+      16
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1463C4_00000B66.bin +0xa46",
+    "sha256_file": "ed038b9c24e171b7ffe8a606d9a5098998404270c3ef7db39845ec9f43749157",
+    "visual_sha256_rgba_normalized": "07a63a24d81babd1a46e96c6cd271050044f0ada22e27098578488cf53de8428",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 124,
+      "boundaries": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 12,
+      "alpha_colors": 0,
+      "rle_runs": 47,
+      "decoded_pixels": 196
+    },
+    "same_pixels_indices": [
+      103
+    ]
+  },
+  {
+    "index": 104,
+    "file": "ab2_1463C4_00000B66_0ACE_16x16.png",
+    "path_in_bundle": "x280_assets/ab2_1463C4_00000B66_0ACE_16x16.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      16,
+      16
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1463C4_00000B66.bin +0xace",
+    "sha256_file": "829405b939e293f5401125378bfc9a6879c173d0586fd1825347cd59e09705d7",
+    "visual_sha256_rgba_normalized": "a68841a2a73a81059699876aa16e556a4139783903c4c7b04b88f3738b8a6358",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 132,
+      "boundaries": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 0,
+      "rle_runs": 44,
+      "decoded_pixels": 225
+    },
+    "same_pixels_indices": [
+      104
+    ]
+  },
+  {
+    "index": 105,
+    "file": "ab2_146E0C_00000B46_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0x4",
+    "sha256_file": "e0e2ba3d040c85a1a351a1f74f150b1ff3df9a320421fad3b2a64b4253993ee8",
+    "visual_sha256_rgba_normalized": "f43857a3ba01c41c1fdc90863925fe1e9bd5afdd9ee4ba237b904d4a4dec4bdc",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 572,
+      "boundaries": [
+        1,
+        2,
+        1,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 121,
+      "alpha_colors": 0,
+      "rle_runs": 72,
+      "decoded_pixels": 528
+    },
+    "same_pixels_indices": [
+      105
+    ]
+  },
+  {
+    "index": 106,
+    "file": "ab2_146E0C_00000B46_024C_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_024C_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0x24c",
+    "sha256_file": "c18140ae4c791c8bca9a66bdab8c7997d8dd04cab1002fd178d917dcd223ecf3",
+    "visual_sha256_rgba_normalized": "2d27c1c78aac7e2529937306d46951d44785e5aba79398a28972f81df8ea8c66",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 806,
+      "boundaries": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 180,
+      "alpha_colors": 0,
+      "rle_runs": 86,
+      "decoded_pixels": 525
+    },
+    "same_pixels_indices": [
+      106
+    ]
+  },
+  {
+    "index": 107,
+    "file": "ab2_146E0C_00000B46_057E_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_057E_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0x57e",
+    "sha256_file": "751317eb861e1d8644f1f1dc6c30176f558b0ce6dfe81c906a61b12a32a1bb63",
+    "visual_sha256_rgba_normalized": "9f40e28b623b4aa46639cff6facea3a2df00e6b269c1013c2e8b7b9a16f183a5",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 554,
+      "boundaries": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 71,
+      "alpha_colors": 0,
+      "rle_runs": 98,
+      "decoded_pixels": 576
+    },
+    "same_pixels_indices": [
+      107
+    ]
+  },
+  {
+    "index": 108,
+    "file": "ab2_146E0C_00000B46_07B4_21x21.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_07B4_21x21.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      21,
+      21
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0x7b4",
+    "sha256_file": "14e86cdf8cad9f7ccdf26d4e0082858dab928c74f695701adccc9b6dfaa06cc6",
+    "visual_sha256_rgba_normalized": "4340af745933824a91f338f5b9bcde0ca44f9811a51d5665cef38a5f5ddb8f2d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 98,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 16,
+      "alpha_colors": 0,
+      "rle_runs": 29,
+      "decoded_pixels": 441
+    },
+    "same_pixels_indices": [
+      108
+    ]
+  },
+  {
+    "index": 109,
+    "file": "ab2_146E0C_00000B46_0822_21x21.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_0822_21x21.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      21,
+      21
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0x822",
+    "sha256_file": "eb0f82390d0acefeb1b14f90935078c3cbf10ff1c560a4102911cc3d16cd0f19",
+    "visual_sha256_rgba_normalized": "fe4f1422e3f3b4ca8d4ca36769c6faacfca1a8613121cac165133f8881a80ead",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 154,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 73,
+      "decoded_pixels": 441
+    },
+    "same_pixels_indices": [
+      109
+    ]
+  },
+  {
+    "index": 110,
+    "file": "ab2_146E0C_00000B46_08C8_21x21.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_08C8_21x21.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      21,
+      21
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0x8c8",
+    "sha256_file": "4b789c9a0bbd3dc3f228d06f89dc139228cbc7e77fe03769d5fd3dd3ade93b6f",
+    "visual_sha256_rgba_normalized": "edd504bf3cbd1afc152beb7a8808e09e4747099057a9030b00e9580c29c285b8",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 244,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 21,
+      "alpha_colors": 0,
+      "rle_runs": 89,
+      "decoded_pixels": 441
+    },
+    "same_pixels_indices": [
+      110
+    ]
+  },
+  {
+    "index": 111,
+    "file": "ab2_146E0C_00000B46_09C8_21x21.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_09C8_21x21.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      21,
+      21
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0x9c8",
+    "sha256_file": "6bf8549889fb084da7a79d19e1c8aefbcd851068097351c294b2f1363ad7dabb",
+    "visual_sha256_rgba_normalized": "c165347e49693ae7940d8be3a18f55aac7493957a74e5e041c14a6d6ec2e66d0",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 178,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 28,
+      "alpha_colors": 0,
+      "rle_runs": 57,
+      "decoded_pixels": 441
+    },
+    "same_pixels_indices": [
+      111
+    ]
+  },
+  {
+    "index": 112,
+    "file": "ab2_146E0C_00000B46_0A86_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_146E0C_00000B46_0A86_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 146E0C_00000B46.bin +0xa86",
+    "sha256_file": "ce9426c7c68f6320ea22a4849978120270ec747bb73184a072edee747e5a874a",
+    "visual_sha256_rgba_normalized": "ed7c4fcbd4664e5c67ee049d74be8c6c310c45530b769a3c8099183f07dc27d6",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 184,
+      "boundaries": [
+        3,
+        4,
+        2,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 0,
+      "rle_runs": 67,
+      "decoded_pixels": 378
+    },
+    "same_pixels_indices": [
+      112
+    ]
+  },
+  {
+    "index": 113,
+    "file": "ab2_1477FC_00000B7A_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1477FC_00000B7A_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1477FC_00000B7A.bin +0x4",
+    "sha256_file": "31a975b6b3d9eade8a8e77b9d93a74c622bd8653321cae164ba56a7a06f5a4c7",
+    "visual_sha256_rgba_normalized": "d93822aacb4499deea993dd0712d172f31b9dc359abd5979d4f60b755a119d12",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 234,
+      "boundaries": [
+        2,
+        5,
+        2,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 23,
+      "alpha_colors": 0,
+      "rle_runs": 63,
+      "decoded_pixels": 396
+    },
+    "same_pixels_indices": [
+      113
+    ]
+  },
+  {
+    "index": 114,
+    "file": "ab2_1477FC_00000B7A_00FA_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1477FC_00000B7A_00FA_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1477FC_00000B7A.bin +0xfa",
+    "sha256_file": "d571d6819c5a7eb5ede7c74d9c5ab5ab9ecab07f0902de31f78c434db559a4b9",
+    "visual_sha256_rgba_normalized": "7fd430741a4c5d6842d2da1edf8a0f1ddfefacfc17e4614297ac8519ac6eb0e0",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 722,
+      "boundaries": [
+        2,
+        2,
+        3,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 150,
+      "alpha_colors": 0,
+      "rle_runs": 107,
+      "decoded_pixels": 441
+    },
+    "same_pixels_indices": [
+      114
+    ]
+  },
+  {
+    "index": 115,
+    "file": "ab2_1477FC_00000B7A_03E4_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1477FC_00000B7A_03E4_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1477FC_00000B7A.bin +0x3e4",
+    "sha256_file": "58d7b260b51f8fe920554a2535a9b76d4905cb7444f9f1558b32db30f4fed470",
+    "visual_sha256_rgba_normalized": "1a7f5e5882ebb21b69699483a65b231c1ded120bea50c29cc7e75e02af766e88",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 222,
+      "boundaries": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 45,
+      "decoded_pixels": 484
+    },
+    "same_pixels_indices": [
+      115
+    ]
+  },
+  {
+    "index": 116,
+    "file": "ab2_1477FC_00000B7A_04CE_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1477FC_00000B7A_04CE_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1477FC_00000B7A.bin +0x4ce",
+    "sha256_file": "02716b05a9eaed46cfd00cfec123e08505d3218df680897fba6d73d8217bf923",
+    "visual_sha256_rgba_normalized": "24b6cf126f156b8956185cdb9995bfe3ff556d2ee78426995c7d3e111a4914e7",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 294,
+      "boundaries": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 24,
+      "alpha_colors": 0,
+      "rle_runs": 52,
+      "decoded_pixels": 440
+    },
+    "same_pixels_indices": [
+      116
+    ]
+  },
+  {
+    "index": 117,
+    "file": "ab2_1477FC_00000B7A_0600_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1477FC_00000B7A_0600_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1477FC_00000B7A.bin +0x600",
+    "sha256_file": "a1238fd70023a2fcfdb248c9a4006e151767ed719f590b8028abe295a862993c",
+    "visual_sha256_rgba_normalized": "4f64b2595282a96e35c35c5a829fe5c23e243dc7dbb3c45e77b8436c7af53fc2",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 346,
+      "boundaries": [
+        1,
+        2,
+        3,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 30,
+      "alpha_colors": 0,
+      "rle_runs": 62,
+      "decoded_pixels": 484
+    },
+    "same_pixels_indices": [
+      117
+    ]
+  },
+  {
+    "index": 118,
+    "file": "ab2_1477FC_00000B7A_0766_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1477FC_00000B7A_0766_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1477FC_00000B7A.bin +0x766",
+    "sha256_file": "4b84ea4e204739455bf342e1ac66eb9ca1cacad1befc144cffdd7752dab3e4b3",
+    "visual_sha256_rgba_normalized": "62f668f625c4a71a263837990a359f2bd80dd3f083f07968afef1bedfb0e2f59",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 750,
+      "boundaries": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 149,
+      "alpha_colors": 0,
+      "rle_runs": 107,
+      "decoded_pixels": 440
+    },
+    "same_pixels_indices": [
+      118
+    ]
+  },
+  {
+    "index": 119,
+    "file": "ab2_1477FC_00000B7A_0A60_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_1477FC_00000B7A_0A60_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1477FC_00000B7A.bin +0xa60",
+    "sha256_file": "e56f42594d9e402dd949b79bacb42bb2fd766b453d372b7cd6eb0c6bda8d6e29",
+    "visual_sha256_rgba_normalized": "448e546004c2618bb0bbb059b95ac7de32130cf86a5b2e622bc9d2bb611d6806",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 274,
+      "boundaries": [
+        3,
+        4,
+        2,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 30,
+      "alpha_colors": 0,
+      "rle_runs": 83,
+      "decoded_pixels": 420
+    },
+    "same_pixels_indices": [
+      119
+    ]
+  },
+  {
+    "index": 120,
+    "file": "ab2_148290_00000BE0_0004_18x18.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_0004_18x18.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      18,
+      18
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0x4",
+    "sha256_file": "747f6b5b3ab4f2c410c0999bc1450d6afa80e94ac08d3e7c287665619353a8a7",
+    "visual_sha256_rgba_normalized": "0458132aabac3e88e351186ff09312ba971a9af9ef5a2004fb224c45e23cae38",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 172,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 0,
+      "rle_runs": 41,
+      "decoded_pixels": 324
+    },
+    "same_pixels_indices": [
+      120
+    ]
+  },
+  {
+    "index": 121,
+    "file": "ab2_148290_00000BE0_00BC_18x18.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_00BC_18x18.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      18,
+      18
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0xbc",
+    "sha256_file": "656967ad56f72a476eee32fe71a0c6d409997ea0836700417b98e364f8cd5109",
+    "visual_sha256_rgba_normalized": "90ba7919da02ab524277b19c6ea5501b20433b5380a7a7f531c57e932a90dc01",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 184,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 0,
+      "rle_runs": 53,
+      "decoded_pixels": 324
+    },
+    "same_pixels_indices": [
+      121
+    ]
+  },
+  {
+    "index": 122,
+    "file": "ab2_148290_00000BE0_0226_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_0226_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0x226",
+    "sha256_file": "7bcaeb9ee9135b6aad91be3c12d36599235672c6b6038282209b5635d0add0a6",
+    "visual_sha256_rgba_normalized": "297e7b8236bf03ab7ebc804af5c83faa2200ef79d38962bdb07d02af3337b1ea",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 368,
+      "boundaries": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 29,
+      "alpha_colors": 0,
+      "rle_runs": 87,
+      "decoded_pixels": 576
+    },
+    "same_pixels_indices": [
+      122
+    ]
+  },
+  {
+    "index": 123,
+    "file": "ab2_148290_00000BE0_03A2_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_03A2_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0x3a2",
+    "sha256_file": "e0126f6f22421a6e1308b727aa1ceaaba094247dafd75d71a042545e796ac0d9",
+    "visual_sha256_rgba_normalized": "782496b5630e340a6452eeecf25e5e0297d6b8710d673e861bbe251da9b1dc3e",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 414,
+      "boundaries": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 30,
+      "alpha_colors": 0,
+      "rle_runs": 104,
+      "decoded_pixels": 552
+    },
+    "same_pixels_indices": [
+      123
+    ]
+  },
+  {
+    "index": 124,
+    "file": "ab2_148290_00000BE0_054C_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_054C_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0x54c",
+    "sha256_file": "7afe54470a996c6a0a439c9c9c33ac91f6f6cc868c5d2093b7487c3c7d17f259",
+    "visual_sha256_rgba_normalized": "e643cf7688ddb56b1b4a2cfa7413edc563519704854f1422aa817947d03cbf14",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 352,
+      "boundaries": [
+        1,
+        0,
+        3,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 28,
+      "alpha_colors": 0,
+      "rle_runs": 105,
+      "decoded_pixels": 550
+    },
+    "same_pixels_indices": [
+      124
+    ]
+  },
+  {
+    "index": 125,
+    "file": "ab2_148290_00000BE0_06B8_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_06B8_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0x6b8",
+    "sha256_file": "334ae203535fc7d9d7ad992269442a8622cd89092755662b94e404d9476f4bdc",
+    "visual_sha256_rgba_normalized": "7f70676b902592112e15b1ff2c63d55c85e07e9e4a34a07776a9d93c112c7b0e",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 458,
+      "boundaries": [
+        3,
+        2,
+        3,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 57,
+      "alpha_colors": 0,
+      "rle_runs": 29,
+      "decoded_pixels": 460
+    },
+    "same_pixels_indices": [
+      125
+    ]
+  },
+  {
+    "index": 126,
+    "file": "ab2_148290_00000BE0_088E_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_088E_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0x88e",
+    "sha256_file": "8d65994d9f899ad73bd361244c5ef9f24c2644ba5e178fbbefd52993270f1fc8",
+    "visual_sha256_rgba_normalized": "ebcbd6b1100c871d7e22ee9629282c352e0d4ce42c50c541b4c2d73a62dae7ed",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 368,
+      "boundaries": [
+        1,
+        1,
+        1,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 30,
+      "alpha_colors": 0,
+      "rle_runs": 88,
+      "decoded_pixels": 552
+    },
+    "same_pixels_indices": [
+      126
+    ]
+  },
+  {
+    "index": 127,
+    "file": "ab2_148290_00000BE0_0A0A_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148290_00000BE0_0A0A_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148290_00000BE0.bin +0xa0a",
+    "sha256_file": "ea241d0904d566208a7a7e72b2713031ec9e869a770d5091d2f12c272a9a2811",
+    "visual_sha256_rgba_normalized": "a0d73ecdff32f4b769d1e54a6eff85ff29e42175dd61630e0547ec2041b46144",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 462,
+      "boundaries": [
+        1,
+        2,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 56,
+      "alpha_colors": 0,
+      "rle_runs": 55,
+      "decoded_pixels": 552
+    },
+    "same_pixels_indices": [
+      127
+    ]
+  },
+  {
+    "index": 128,
+    "file": "ab2_148DB8_00000BC4_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x4",
+    "sha256_file": "a1bdc0a842a8c7dcd74f1eb50630efcae1f96de075e16e8f4063374a17ced147",
+    "visual_sha256_rgba_normalized": "235c35d740593bffd1878d9575ff5d117e8a027e9457f0fcfab2e61db75a0e55",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 282,
+      "boundaries": [
+        2,
+        1,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 99,
+      "decoded_pixels": 600
+    },
+    "same_pixels_indices": [
+      128
+    ]
+  },
+  {
+    "index": 129,
+    "file": "ab2_148DB8_00000BC4_012A_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_012A_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x12a",
+    "sha256_file": "b901ee1c91c974c397b45da78e3b097b8941399a0162e641d228a6b084afb968",
+    "visual_sha256_rgba_normalized": "af5941759cbc4b9fc75efcdb578468f692f9e4afbcfd4b49f410cd4a57de6765",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 252,
+      "boundaries": [
+        4,
+        1,
+        3,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 61,
+      "decoded_pixels": 456
+    },
+    "same_pixels_indices": [
+      129
+    ]
+  },
+  {
+    "index": 130,
+    "file": "ab2_148DB8_00000BC4_0232_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0232_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x232",
+    "sha256_file": "f8e4906e9384ee510ab414bd9f1182f8e20947eb953eeca6c828fba5a7a9b6b8",
+    "visual_sha256_rgba_normalized": "3a67aabc9aebda1e03b383c355b5f426cc4de3b7ada46389d54ee69eaf406142",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 278,
+      "boundaries": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 12,
+      "alpha_colors": 0,
+      "rle_runs": 105,
+      "decoded_pixels": 576
+    },
+    "same_pixels_indices": [
+      130
+    ]
+  },
+  {
+    "index": 131,
+    "file": "ab2_148DB8_00000BC4_0354_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0354_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x354",
+    "sha256_file": "486e811650578088afd3567a6fed6d9af62eeb6416957af6a1950477f10db49a",
+    "visual_sha256_rgba_normalized": "b856ae6575421fa5d926be82feff8b4c58cef047e044ab45723a41de826a0fb6",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 280,
+      "boundaries": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 74,
+      "decoded_pixels": 529
+    },
+    "same_pixels_indices": [
+      131
+    ]
+  },
+  {
+    "index": 132,
+    "file": "ab2_148DB8_00000BC4_0478_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0478_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x478",
+    "sha256_file": "685df1b97e1639aff2fb984c5cf3f5129cd5de4b500a4233115456670da167f6",
+    "visual_sha256_rgba_normalized": "468846b124f307ccca56d0fc6b8e8c5f80b06865071e941efa2711060dba6c61",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 254,
+      "boundaries": [
+        1,
+        1,
+        2,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 56,
+      "decoded_pixels": 529
+    },
+    "same_pixels_indices": [
+      132
+    ]
+  },
+  {
+    "index": 133,
+    "file": "ab2_148DB8_00000BC4_0582_10x10.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0582_10x10.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      10,
+      10
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x582",
+    "sha256_file": "5112ffc8f1724f524ec0279af85e5115bc77cc31b45442101da44892ecb69e2e",
+    "visual_sha256_rgba_normalized": "8acfe5449cd0a0830314da6a8ed2e903014ce85cd2119dbbc44e307a140a690b",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 80,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 10,
+      "alpha_colors": 0,
+      "rle_runs": 17,
+      "decoded_pixels": 100
+    },
+    "same_pixels_indices": [
+      133
+    ]
+  },
+  {
+    "index": 134,
+    "file": "ab2_148DB8_00000BC4_05EA_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_05EA_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x5ea",
+    "sha256_file": "ea28f829b169c43d7993fbc4acab038348bcf0f7f4d7355b968c22b1373baaae",
+    "visual_sha256_rgba_normalized": "a23abfa36d6ba9661286331371c059585ac6d84af599dfd2955d129d82e5a746",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 174,
+      "boundaries": [
+        3,
+        3,
+        3,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 0,
+      "rle_runs": 69,
+      "decoded_pixels": 380
+    },
+    "same_pixels_indices": [
+      134
+    ]
+  },
+  {
+    "index": 135,
+    "file": "ab2_148DB8_00000BC4_06A4_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_06A4_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x6a4",
+    "sha256_file": "ae1ff37c3ebb00457dd14f9616b737abbe47655e72bbaa49e0d437b7a43ad03b",
+    "visual_sha256_rgba_normalized": "58222bd84445c2053d52775986faae426d436e9d385c9d4ce4d77c475f53fd8e",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 150,
+      "boundaries": [
+        3,
+        5,
+        3,
+        5
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 46,
+      "decoded_pixels": 320
+    },
+    "same_pixels_indices": [
+      135
+    ]
+  },
+  {
+    "index": 136,
+    "file": "ab2_148DB8_00000BC4_0746_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0746_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x746",
+    "sha256_file": "70c38a4dfc611d300b165df9ad6a11ae4b284818a394cc192b4ad7a9398044ad",
+    "visual_sha256_rgba_normalized": "ddbbf998420afae98ce03c75e116feaab35b1b5ecae028e438a97a0dba325c42",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 154,
+      "boundaries": [
+        3,
+        4,
+        3,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 0,
+      "rle_runs": 51,
+      "decoded_pixels": 360
+    },
+    "same_pixels_indices": [
+      136
+    ]
+  },
+  {
+    "index": 137,
+    "file": "ab2_148DB8_00000BC4_07EC_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_07EC_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x7ec",
+    "sha256_file": "4fb4824b60e46b8af3a0d47d86c8ed8f5d3f409af01862958ffa5b509003134a",
+    "visual_sha256_rgba_normalized": "9db3e7b9641a5e3652f2e28c5706e7ee0bcf4d044c27472fa2097f84dc81dd4f",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 318,
+      "boundaries": [
+        0,
+        1,
+        1,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 18,
+      "alpha_colors": 0,
+      "rle_runs": 114,
+      "decoded_pixels": 575
+    },
+    "same_pixels_indices": [
+      137
+    ]
+  },
+  {
+    "index": 138,
+    "file": "ab2_148DB8_00000BC4_0936_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0936_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x936",
+    "sha256_file": "d45a750ec8b1fb4a469e01f7db24b7b903e66dd19483dd49cfe6628c6b77f5ab",
+    "visual_sha256_rgba_normalized": "c379f43fb1b5d33928e3fc933426f00b0c2f8f652dc9e059d62e03695ad81e08",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 168,
+      "boundaries": [
+        3,
+        4,
+        3,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 39,
+      "decoded_pixels": 360
+    },
+    "same_pixels_indices": [
+      138
+    ]
+  },
+  {
+    "index": 139,
+    "file": "ab2_148DB8_00000BC4_09EA_20x15.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_09EA_20x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0x9ea",
+    "sha256_file": "856e35981a8607de46108ef55050aa99255ca43779dbb461be0710bc620fba82",
+    "visual_sha256_rgba_normalized": "2e50b320904b74040fafb8480401e390e7129761b85a4744892fe7f70b6a6c5b",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 120,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 9,
+      "alpha_colors": 0,
+      "rle_runs": 50,
+      "decoded_pixels": 300
+    },
+    "same_pixels_indices": [
+      139
+    ]
+  },
+  {
+    "index": 140,
+    "file": "ab2_148DB8_00000BC4_0B94_7x13.png",
+    "path_in_bundle": "x280_assets/ab2_148DB8_00000BC4_0B94_7x13.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      7,
+      13
+    ],
+    "frames": 1,
+    "source": "AB2 inner 148DB8_00000BC4.bin +0xb94",
+    "sha256_file": "37587ea87e03743870d1b708466899c3d60308a8cc3d29a50e6bb59b94388950",
+    "visual_sha256_rgba_normalized": "4b326f18282299ab2b4ea891563454d774369aa3227c490edf71bf19ebd2c8de",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 40,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 5,
+      "decoded_pixels": 91
+    },
+    "same_pixels_indices": [
+      140
+    ]
+  },
+  {
+    "index": 141,
+    "file": "ab2_1497C0_00000B48_0004_31x25.png",
+    "path_in_bundle": "x280_assets/ab2_1497C0_00000B48_0004_31x25.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      31,
+      25
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1497C0_00000B48.bin +0x4",
+    "sha256_file": "4a9f9b1605a9766a362772409e56e3dc1453dcc63d4d0cd6c0ea6bd71c1d00a1",
+    "visual_sha256_rgba_normalized": "55c50196fca057a95d996a3e419efc7cf1388360e52bf0c360948c45cb6da7b4",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 116,
+      "boundaries": [
+        5,
+        2,
+        5,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 2,
+      "alpha_colors": 0,
+      "rle_runs": 75,
+      "decoded_pixels": 441
+    },
+    "same_pixels_indices": [
+      141
+    ]
+  },
+  {
+    "index": 142,
+    "file": "ab2_1497C0_00000B48_00B0_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_1497C0_00000B48_00B0_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1497C0_00000B48.bin +0xb0",
+    "sha256_file": "84a83e467f8226fdee3e374fb3c8360c115b1f2d19e72045867a442d59e50b68",
+    "visual_sha256_rgba_normalized": "bf8000ca51e01b9c46a59564c5e9cab3bc2ff78fc86be8f9395caa916496d79f",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 526,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 47,
+      "alpha_colors": 8,
+      "rle_runs": 184,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      142
+    ]
+  },
+  {
+    "index": 143,
+    "file": "ab2_1497C0_00000B48_02CA_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_1497C0_00000B48_02CA_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1497C0_00000B48.bin +0x2ca",
+    "sha256_file": "3030381c3e2414a0094ecb05b7b641842e5602cabba8d473f02c9fe68675b9bb",
+    "visual_sha256_rgba_normalized": "949508c90e3450958ccf26dba30bc119541f9c28115e53b9ab55562eae230809",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 488,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 40,
+      "alpha_colors": 8,
+      "rle_runs": 164,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      143
+    ]
+  },
+  {
+    "index": 144,
+    "file": "ab2_1497C0_00000B48_04BE_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_1497C0_00000B48_04BE_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1497C0_00000B48.bin +0x4be",
+    "sha256_file": "e24de81890887764a610ced1eb86160cd7640a847c390dc8171fb7f66c3dd125",
+    "visual_sha256_rgba_normalized": "5fadcb386917e05ade54a92d3f4c7341afa40a780da5c4cc10505d28f2234285",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 652,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 44,
+      "alpha_colors": 8,
+      "rle_runs": 231,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      144
+    ]
+  },
+  {
+    "index": 145,
+    "file": "ab2_1497C0_00000B48_0756_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_1497C0_00000B48_0756_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1497C0_00000B48.bin +0x756",
+    "sha256_file": "c1594a18c204100df0e99f355eadbf1528a4f181e5305032cdc50534425021d7",
+    "visual_sha256_rgba_normalized": "2386ee7569a2dd5dc119d7a9738cbfd6f4e4fe1185a70f7b33d93f09c84cbd06",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 542,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 45,
+      "alpha_colors": 8,
+      "rle_runs": 166,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      145
+    ]
+  },
+  {
+    "index": 146,
+    "file": "ab2_1497C0_00000B48_0980_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_1497C0_00000B48_0980_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 1497C0_00000B48.bin +0x980",
+    "sha256_file": "04fcffd4828e4d16d8547f506b306b8efe2e1fc28eb983959659bbde79a5affe",
+    "visual_sha256_rgba_normalized": "4809efdbb1256d26f468e2ecbcdd430f0cabe48de4c93c62d5c0378c63af6e88",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 448,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 48,
+      "alpha_colors": 8,
+      "rle_runs": 153,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      146
+    ]
+  },
+  {
+    "index": 147,
+    "file": "ab2_14A0F8_00000B44_0004_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_14A0F8_00000B44_0004_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14A0F8_00000B44.bin +0x4",
+    "sha256_file": "0288152ef8240e4e16bca27408bb3a7333c63bc9381725e98db6c8975db111cc",
+    "visual_sha256_rgba_normalized": "820410c28544490c2a1897b5bc43acc7c70e2376a3403477ea8f7d59e56c28ec",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 478,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 46,
+      "alpha_colors": 8,
+      "rle_runs": 163,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      147
+    ]
+  },
+  {
+    "index": 148,
+    "file": "ab2_14A0F8_00000B44_01EE_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_14A0F8_00000B44_01EE_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14A0F8_00000B44.bin +0x1ee",
+    "sha256_file": "86df7793868d0ca7124f619693d071426edb3a51f3db1a452cbc74c2dd390620",
+    "visual_sha256_rgba_normalized": "e042c1bc17bacc029a33390ebe193beb58c6845494ce6e6d4ff7bc97264c05c7",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 212,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 9,
+      "alpha_colors": 8,
+      "rle_runs": 86,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      148
+    ]
+  },
+  {
+    "index": 149,
+    "file": "ab2_14A0F8_00000B44_02CE_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_14A0F8_00000B44_02CE_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14A0F8_00000B44.bin +0x2ce",
+    "sha256_file": "fcfe3a8b9a29d3a3a7945e122ac4791a2d1d1cc9625ae60e1f3594f2f5f7d438",
+    "visual_sha256_rgba_normalized": "dc2cc90059f152864f200497c7d605e84d13f325019593a03bee5d0692bb9171",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 288,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 8,
+      "rle_runs": 119,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      149
+    ]
+  },
+  {
+    "index": 150,
+    "file": "ab2_14A0F8_00000B44_03FA_80x74.png",
+    "path_in_bundle": "x280_assets/ab2_14A0F8_00000B44_03FA_80x74.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      80,
+      74
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14A0F8_00000B44.bin +0x3fa",
+    "sha256_file": "fac00e53103c64253928d2b2ba298ab5f7d4d163c9fc25beafd9a7ed98382222",
+    "visual_sha256_rgba_normalized": "c60ad7ce28f9795cbe8ba497cfc55b34d2955c7d299a1891a53acf8314355669",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 194,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 1,
+      "alpha_colors": 15,
+      "rle_runs": 69,
+      "decoded_pixels": 5920
+    },
+    "same_pixels_indices": [
+      150
+    ]
+  },
+  {
+    "index": 151,
+    "file": "ab2_14A0F8_00000B44_04C8_240x38.png",
+    "path_in_bundle": "x280_assets/ab2_14A0F8_00000B44_04C8_240x38.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      240,
+      38
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14A0F8_00000B44.bin +0x4c8",
+    "sha256_file": "18c43804e2c537e168c41b0340689585b7d86a089142fe88df60327598e7a498",
+    "visual_sha256_rgba_normalized": "194999d2534efa545eb6fe613124b851a625a96186fe69a9b997869db979f758",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 1652,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 16,
+      "alpha_colors": 0,
+      "rle_runs": 682,
+      "decoded_pixels": 9120
+    },
+    "same_pixels_indices": [
+      151
+    ]
+  },
+  {
+    "index": 152,
+    "file": "ab2_14A9D0_000004A8_0004_240x38.png",
+    "path_in_bundle": "x280_assets/ab2_14A9D0_000004A8_0004_240x38.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      240,
+      38
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14A9D0_000004A8.bin +0x4",
+    "sha256_file": "95eb549e7f7d8d6c95741468836f4bdff91fd18859219439ffb9ab0db12dc435",
+    "visual_sha256_rgba_normalized": "cc4e520bb5fbc74a443262060cece08951014f49739f0b79b0ccac8e5cc83eb4",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 1180,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 5,
+      "algorithm": 1,
+      "normal_colors": 16,
+      "alpha_colors": 0,
+      "rle_runs": 473,
+      "decoded_pixels": 9120
+    },
+    "same_pixels_indices": [
+      152
+    ]
+  },
+  {
+    "index": 153,
+    "file": "ab2_14B2A8_00000B90_0004_52x52.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_0004_52x52.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      52,
+      52
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x4",
+    "sha256_file": "d5a30720a18e872b9e017021f271ecca0a5e7bf0c050ee412bcfe4480bfe64b7",
+    "visual_sha256_rgba_normalized": "d33679dda133a276e4a7576a4a8aa6cc81561ba46111ec991e30dd025cfe7f28",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 484,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 33,
+      "alpha_colors": 8,
+      "rle_runs": 155,
+      "decoded_pixels": 2704
+    },
+    "same_pixels_indices": [
+      153
+    ]
+  },
+  {
+    "index": 154,
+    "file": "ab2_14B2A8_00000B90_01F4_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_01F4_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x1f4",
+    "sha256_file": "4772edfd1d8c7fe5168147ac31ad310742779af105749233874786ddb08bad78",
+    "visual_sha256_rgba_normalized": "c5b77b1686e53f479977722bdc69945694f9c62d4435f5f999b6a09f749ffa9b",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 534,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 47,
+      "alpha_colors": 0,
+      "rle_runs": 66,
+      "decoded_pixels": 676
+    },
+    "same_pixels_indices": [
+      154
+    ]
+  },
+  {
+    "index": 155,
+    "file": "ab2_14B2A8_00000B90_0466_16x16.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_0466_16x16.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      16,
+      16
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x466",
+    "sha256_file": "83302b0f0fd104d567bb4f98312d57186f1d1292ef4dc77ca552ece5a1312c13",
+    "visual_sha256_rgba_normalized": "05fe08da3a6be904d5500eee8d6a9035bf69045d0bec3b68ea1e678ba610329b",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 180,
+      "boundaries": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 24,
+      "alpha_colors": 0,
+      "rle_runs": 64,
+      "decoded_pixels": 225
+    },
+    "same_pixels_indices": [
+      155
+    ]
+  },
+  {
+    "index": 156,
+    "file": "ab2_14B2A8_00000B90_0526_16x16.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_0526_16x16.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      16,
+      16
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x526",
+    "sha256_file": "1c7500b013c32f19a9be237e665909b97414f04a3f5a25e247863688c7eced9f",
+    "visual_sha256_rgba_normalized": "196b7aa278b1f16073e7c139d09ebc29b3ff3887ff6c4488497e833008784b68",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 82,
+      "boundaries": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 6,
+      "alpha_colors": 0,
+      "rle_runs": 27,
+      "decoded_pixels": 168
+    },
+    "same_pixels_indices": [
+      156
+    ]
+  },
+  {
+    "index": 157,
+    "file": "ab2_14B2A8_00000B90_0590_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_0590_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x590",
+    "sha256_file": "febd2008019352397926e8a4402489e6a000a837fada48afee232acf7acf9041",
+    "visual_sha256_rgba_normalized": "1400c142ae32ded6113d694c759fc3885b2b363535240df06e0f317c84703e29",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 184,
+      "boundaries": [
+        2,
+        4,
+        3,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 23,
+      "alpha_colors": 0,
+      "rle_runs": 56,
+      "decoded_pixels": 378
+    },
+    "same_pixels_indices": [
+      157
+    ]
+  },
+  {
+    "index": 158,
+    "file": "ab2_14B2A8_00000B90_0654_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_0654_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x654",
+    "sha256_file": "c3188cde13620710df4f8a3b22d87bbb9340fd0c9efeb76e4ef22cb522f73d46",
+    "visual_sha256_rgba_normalized": "1dcedb024aca9fce93b0904443830c81424f9f9d0f91a61ec7832a1dc2c5314c",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 282,
+      "boundaries": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 24,
+      "alpha_colors": 0,
+      "rle_runs": 82,
+      "decoded_pixels": 552
+    },
+    "same_pixels_indices": [
+      158
+    ]
+  },
+  {
+    "index": 159,
+    "file": "ab2_14B2A8_00000B90_077A_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_077A_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x77a",
+    "sha256_file": "8f5d525c086b24543084cfc3b71182ac831c45b7850f396e102dd0a07fe4fca0",
+    "visual_sha256_rgba_normalized": "704418d16d9ddf7cb7a22a84a56e73beabcfa21a7d230567d972e9be5f966e76",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 338,
+      "boundaries": [
+        1,
+        2,
+        1,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 47,
+      "alpha_colors": 0,
+      "rle_runs": 101,
+      "decoded_pixels": 528
+    },
+    "same_pixels_indices": [
+      159
+    ]
+  },
+  {
+    "index": 160,
+    "file": "ab2_14B2A8_00000B90_08D8_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_08D8_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0x8d8",
+    "sha256_file": "4d86a8b863708d6166ea9821531ade9cd4fd36cfeb8948dd8c563ed3b191574d",
+    "visual_sha256_rgba_normalized": "2a44a659d210eb8c42b59dcd3319145c39c6fc2e46ee87c65561fd3993a9e934",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 386,
+      "boundaries": [
+        2,
+        2,
+        3,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 38,
+      "alpha_colors": 0,
+      "rle_runs": 72,
+      "decoded_pixels": 441
+    },
+    "same_pixels_indices": [
+      160
+    ]
+  },
+  {
+    "index": 161,
+    "file": "ab2_14B2A8_00000B90_0A66_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14B2A8_00000B90_0A66_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14B2A8_00000B90.bin +0xa66",
+    "sha256_file": "9c6b80f6a37920c9c6c995e2cd9aa3165c6aa5c38d4f3419bdeb59fc35e174f7",
+    "visual_sha256_rgba_normalized": "27beaaa013cc5e41132142cb93c81abbf5ce76adea64a9ec8cd10554917c31a7",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 290,
+      "boundaries": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 24,
+      "alpha_colors": 0,
+      "rle_runs": 62,
+      "decoded_pixels": 484
+    },
+    "same_pixels_indices": [
+      161
+    ]
+  },
+  {
+    "index": 162,
+    "file": "ab2_14BD20_00000B8E_0004_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14BD20_00000B8E_0004_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14BD20_00000B8E.bin +0x4",
+    "sha256_file": "8edea6b42907800de310a5330fdd7afa1e2695227cc3d49039275aaef0f0e1f4",
+    "visual_sha256_rgba_normalized": "0905144ef84cac1033475c6d8aff093522c37dc49447c8fec9959ba47d71e475",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 320,
+      "boundaries": [
+        2,
+        2,
+        2,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 22,
+      "alpha_colors": 0,
+      "rle_runs": 110,
+      "decoded_pixels": 506
+    },
+    "same_pixels_indices": [
+      162
+    ]
+  },
+  {
+    "index": 163,
+    "file": "ab2_14BD20_00000B8E_0150_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14BD20_00000B8E_0150_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14BD20_00000B8E.bin +0x150",
+    "sha256_file": "ecc482295cfbf42307db06431572a296828f3daa482df7a3638a10214872f4e9",
+    "visual_sha256_rgba_normalized": "3319eea3bf0cd08b8f7f107960c1da6033a947efdb4ce916d58016d1ad08c50c",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 292,
+      "boundaries": [
+        2,
+        5,
+        3,
+        3
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 24,
+      "alpha_colors": 0,
+      "rle_runs": 95,
+      "decoded_pixels": 378
+    },
+    "same_pixels_indices": [
+      163
+    ]
+  },
+  {
+    "index": 164,
+    "file": "ab2_14BD20_00000B8E_0280_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14BD20_00000B8E_0280_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14BD20_00000B8E.bin +0x280",
+    "sha256_file": "8e513e53d8f95b0d54ed24bfbd07a1f625c3084481eeb6ab35bc2ca5b5d2e3fa",
+    "visual_sha256_rgba_normalized": "053df8c156c6e844a968766a9cc95d0b843df313955990ebba866b4dbcb6e204",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 318,
+      "boundaries": [
+        3,
+        1,
+        0,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 24,
+      "alpha_colors": 0,
+      "rle_runs": 95,
+      "decoded_pixels": 529
+    },
+    "same_pixels_indices": [
+      164
+    ]
+  },
+  {
+    "index": 165,
+    "file": "ab2_14BD20_00000B8E_03CA_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14BD20_00000B8E_03CA_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14BD20_00000B8E.bin +0x3ca",
+    "sha256_file": "e37b74984dfbf974c9f9a5ae5e02669101e36e7125db17260ff6e66f66ba4875",
+    "visual_sha256_rgba_normalized": "1ed7cd890ae7e90190c94e3908a584e7db1c1313a0c9d276f8a277748c19deca",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 206,
+      "boundaries": [
+        2,
+        5,
+        2,
+        4
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 24,
+      "alpha_colors": 0,
+      "rle_runs": 60,
+      "decoded_pixels": 374
+    },
+    "same_pixels_indices": [
+      165
+    ]
+  },
+  {
+    "index": 166,
+    "file": "ab2_14BD20_00000B8E_04A4_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14BD20_00000B8E_04A4_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14BD20_00000B8E.bin +0x4a4",
+    "sha256_file": "d7012e0d399034727252884d1e712b5310bb4a4c4ee010656eff58c13f57d903",
+    "visual_sha256_rgba_normalized": "37f396a5053014e61e8b4e3b2c8b8bca3587e2fc81724a8cc0d109016dedb236",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 214,
+      "boundaries": [
+        6,
+        2,
+        7,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 21,
+      "alpha_colors": 0,
+      "rle_runs": 22,
+      "decoded_pixels": 286
+    },
+    "same_pixels_indices": [
+      166
+    ]
+  },
+  {
+    "index": 167,
+    "file": "ab2_14BD20_00000B8E_0586_20x20.png",
+    "path_in_bundle": "x280_assets/ab2_14BD20_00000B8E_0586_20x20.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      20,
+      20
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14BD20_00000B8E.bin +0x586",
+    "sha256_file": "ed521b46bb9c35e65b9c6b2a5f9793557a40f1e3274c9e3c27ae4028c6a60ea2",
+    "visual_sha256_rgba_normalized": "a427520541d38127399370abcea858a339bfed5036f23cf0702640e2749c34a0",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 220,
+      "boundaries": [
+        2,
+        2,
+        1,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 19,
+      "alpha_colors": 0,
+      "rle_runs": 61,
+      "decoded_pixels": 289
+    },
+    "same_pixels_indices": [
+      167
+    ]
+  },
+  {
+    "index": 168,
+    "file": "ab2_14F158_00000756_0528_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14F158_00000756_0528_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14F158_00000756.bin +0x528",
+    "sha256_file": "f2e1a6194f973d934baf5ffe307bb918d7f14dffc8081d3b963f2fc855fe503d",
+    "visual_sha256_rgba_normalized": "3e2217edd931aa9ac374bd9b3398905e3ff9748354b9732d4457b5b876ad2e96",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 256,
+      "boundaries": [
+        4,
+        1,
+        4,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 46,
+      "alpha_colors": 0,
+      "rle_runs": 68,
+      "decoded_pixels": 414
+    },
+    "same_pixels_indices": [
+      168
+    ]
+  },
+  {
+    "index": 169,
+    "file": "ab2_14F158_00000756_0634_26x26.png",
+    "path_in_bundle": "x280_assets/ab2_14F158_00000756_0634_26x26.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      26
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14F158_00000756.bin +0x634",
+    "sha256_file": "8f020d0d692b2597d01b4cc14c8e343bb2bc7ef022cac5cb2068940e60cc5c41",
+    "visual_sha256_rgba_normalized": "4bb3a2a1c45ccfc232186e4fbfbab97103c699557b5f52f4d1e40ab39019ded5",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 282,
+      "boundaries": [
+        4,
+        1,
+        4,
+        2
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 56,
+      "alpha_colors": 0,
+      "rle_runs": 70,
+      "decoded_pixels": 414
+    },
+    "same_pixels_indices": [
+      169
+    ]
+  },
+  {
+    "index": 170,
+    "file": "ab2_14F70C_000008AE_0004_154x129.png",
+    "path_in_bundle": "x280_assets/ab2_14F70C_000008AE_0004_154x129.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      154,
+      129
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14F70C_000008AE.bin +0x4",
+    "sha256_file": "68695fc9494b39401148320eb63cad3aad15336a1e9767e1a0692b2c3fcf5ce6",
+    "visual_sha256_rgba_normalized": "49e1cfbbf317f28a4f2cee0e922b1229f6822a158a7731a640821626f171642d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 2210,
+      "boundaries": [
+        39,
+        33,
+        48,
+        29
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 33,
+      "alpha_colors": 284,
+      "rle_runs": 391,
+      "decoded_pixels": 4489
+    },
+    "same_pixels_indices": [
+      170
+    ]
+  },
+  {
+    "index": 171,
+    "file": "ab2_14FE14_00000ABE_0004_53x48.png",
+    "path_in_bundle": "x280_assets/ab2_14FE14_00000ABE_0004_53x48.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      53,
+      48
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14FE14_00000ABE.bin +0x4",
+    "sha256_file": "06c925a63a9eab72885d7ae7a30558b1f309900c774281db28fba02c4a1cfed2",
+    "visual_sha256_rgba_normalized": "b8a03bd70d3584882554494516f5f05577881958c669dc13932995d62a2aebab",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 1238,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 1,
+      "alpha_colors": 71,
+      "rle_runs": 404,
+      "decoded_pixels": 2544
+    },
+    "same_pixels_indices": [
+      171
+    ]
+  },
+  {
+    "index": 172,
+    "file": "ab2_14FE14_00000ABE_0606_13x17.png",
+    "path_in_bundle": "x280_assets/ab2_14FE14_00000ABE_0606_13x17.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      13,
+      17
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14FE14_00000ABE.bin +0x606",
+    "sha256_file": "df1d01276a26a6665c2d99928f472d0a48e04dbb882f6e4b6638d0f60bbedce0",
+    "visual_sha256_rgba_normalized": "664a402f968d6cc0f9fc526b86ca4ec4bd3fd0b122aff4449726d86980443a4d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 136,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 14,
+      "alpha_colors": 0,
+      "rle_runs": 40,
+      "decoded_pixels": 221
+    },
+    "same_pixels_indices": [
+      172
+    ]
+  },
+  {
+    "index": 173,
+    "file": "ab2_14FE14_00000ABE_069A_8x20.png",
+    "path_in_bundle": "x280_assets/ab2_14FE14_00000ABE_069A_8x20.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      8,
+      20
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14FE14_00000ABE.bin +0x69a",
+    "sha256_file": "d31eb081f9a5ce77e288d9fa657ba53ccce4c173ab20457189cfcb3ac69b09d2",
+    "visual_sha256_rgba_normalized": "4247ae94c085dce969ca7f77317036ffb4341395d0165f4996d5bcf90cc5967b",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 118,
+      "boundaries": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 30,
+      "alpha_colors": 0,
+      "rle_runs": 1,
+      "decoded_pixels": 72
+    },
+    "same_pixels_indices": [
+      173
+    ]
+  },
+  {
+    "index": 174,
+    "file": "ab2_14FE14_00000ABE_071C_19x17.png",
+    "path_in_bundle": "x280_assets/ab2_14FE14_00000ABE_071C_19x17.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      19,
+      17
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14FE14_00000ABE.bin +0x71c",
+    "sha256_file": "c8f1eb09f60a04600a1cbaba63f424cd3d3316a65959750e439d5d230b833e35",
+    "visual_sha256_rgba_normalized": "464b9b97f5d83c4b2f1a7b80419adef4260d5b4d0362d790163ec3e53dc4b822",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 114,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 5,
+      "alpha_colors": 0,
+      "rle_runs": 53,
+      "decoded_pixels": 323
+    },
+    "same_pixels_indices": [
+      174
+    ]
+  },
+  {
+    "index": 175,
+    "file": "ab2_14FE14_00000ABE_079A_19x17.png",
+    "path_in_bundle": "x280_assets/ab2_14FE14_00000ABE_079A_19x17.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      19,
+      17
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14FE14_00000ABE.bin +0x79a",
+    "sha256_file": "46bd2e2b1e9f320f955851915b12230f509a739cc49c491261e173e9d88ca4e1",
+    "visual_sha256_rgba_normalized": "36a2abefad5a3a5bd2af797c2e71d61b3d5beb5b293537e9199d4c9fe15a4a70",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 114,
+      "boundaries": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "pixel_format": 1,
+      "algorithm": 1,
+      "normal_colors": 5,
+      "alpha_colors": 0,
+      "rle_runs": 53,
+      "decoded_pixels": 323
+    },
+    "same_pixels_indices": [
+      175
+    ]
+  },
+  {
+    "index": 176,
+    "file": "ab2_14FE14_00000ABE_0818_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_14FE14_00000ABE_0818_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 14FE14_00000ABE.bin +0x818",
+    "sha256_file": "cf58f00eda1cd76ea41808548be9e8d9254d0e4214e8068677b8844f3bc5ee23",
+    "visual_sha256_rgba_normalized": "7c47b46f69de94006c9f6ef9d31db31b2a17d699a3f5cc3c0b3db9a257fb780e",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 670,
+      "boundaries": [
+        3,
+        2,
+        3,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 24,
+      "rle_runs": 219,
+      "decoded_pixels": 1014
+    },
+    "visual_label": "цифра 0",
+    "same_pixels_indices": [
+      176
+    ]
+  },
+  {
+    "index": 177,
+    "file": "ab2_150704_000009F0_0004_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150704_000009F0_0004_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150704_000009F0.bin +0x4",
+    "sha256_file": "610286236e847bbd000335b346a50ea3c395de9bbd57bb4ba83bf572d2eabafb",
+    "visual_sha256_rgba_normalized": "516e72efd9bccee7a6f9a86b19f3b4519a75927cab9346aef15b0afc6259b79e",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 432,
+      "boundaries": [
+        5,
+        2,
+        4,
+        2
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 20,
+      "rle_runs": 147,
+      "decoded_pixels": 874
+    },
+    "visual_label": "цифра 1",
+    "same_pixels_indices": [
+      177
+    ]
+  },
+  {
+    "index": 178,
+    "file": "ab2_150704_000009F0_01C0_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150704_000009F0_01C0_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150704_000009F0.bin +0x1c0",
+    "sha256_file": "6798611df531311ef19402cf07b22a8ab140f968b74853b440d8c90dd6b62776",
+    "visual_sha256_rgba_normalized": "567120584ee85f87fd0fa4e5b889b665ed8344c4d9cf2cd6672037795039a683",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 496,
+      "boundaries": [
+        3,
+        2,
+        4,
+        2
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 24,
+      "rle_runs": 150,
+      "decoded_pixels": 950
+    },
+    "visual_label": "цифра 2",
+    "same_pixels_indices": [
+      178
+    ]
+  },
+  {
+    "index": 179,
+    "file": "ab2_150704_000009F0_03BC_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150704_000009F0_03BC_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150704_000009F0.bin +0x3bc",
+    "sha256_file": "19b224be466ff077446e6846c49efd53e45529a64c56f6f26d1f8e0b2d083d22",
+    "visual_sha256_rgba_normalized": "b115a8f7a2c5bdb8b815b3b1ca06b03ca864e120bd2c20846f22af03238b7d19",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 542,
+      "boundaries": [
+        4,
+        2,
+        5,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 25,
+      "rle_runs": 155,
+      "decoded_pixels": 897
+    },
+    "visual_label": "цифра 3",
+    "same_pixels_indices": [
+      179
+    ]
+  },
+  {
+    "index": 180,
+    "file": "ab2_150704_000009F0_05E6_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150704_000009F0_05E6_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150704_000009F0.bin +0x5e6",
+    "sha256_file": "30412e1bcdbb6f5aac3e76c9a25b2934392cb8b2b6fd6b6fa708f3f27614c139",
+    "visual_sha256_rgba_normalized": "46788efa3ab9ead47f5ac305352871000e23757cdbccebcd0d767c3a9ca26feb",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 498,
+      "boundaries": [
+        1,
+        2,
+        3,
+        2
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 15,
+      "alpha_colors": 15,
+      "rle_runs": 204,
+      "decoded_pixels": 1064
+    },
+    "visual_label": "цифра 4",
+    "same_pixels_indices": [
+      180
+    ]
+  },
+  {
+    "index": 181,
+    "file": "ab2_150704_000009F0_07E4_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150704_000009F0_07E4_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150704_000009F0.bin +0x7e4",
+    "sha256_file": "ff9606f7fd0fa0f9094042d7cc50f5e58893f4d3c32108cc69a734f2a4f0cade",
+    "visual_sha256_rgba_normalized": "e78d6abba51981c6ef7f2b3519b6105d0d577da5ce9eb4106f3ebee56f2df90d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 516,
+      "boundaries": [
+        5,
+        2,
+        4,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 23,
+      "rle_runs": 166,
+      "decoded_pixels": 897
+    },
+    "visual_label": "цифра 5",
+    "same_pixels_indices": [
+      181
+    ]
+  },
+  {
+    "index": 182,
+    "file": "ab2_150D78_00000AFC_0004_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150D78_00000AFC_0004_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150D78_00000AFC.bin +0x4",
+    "sha256_file": "d8737b7a0fc1f904ebff72a5d508da9a3352392daf61e45ccbd21be1bf5c651e",
+    "visual_sha256_rgba_normalized": "afe6f3936e3f67797179d8219a9993f9c6859fe87c287cafca54dda0ed01072c",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 638,
+      "boundaries": [
+        4,
+        2,
+        3,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 25,
+      "rle_runs": 201,
+      "decoded_pixels": 975
+    },
+    "visual_label": "цифра 6",
+    "same_pixels_indices": [
+      182
+    ]
+  },
+  {
+    "index": 183,
+    "file": "ab2_150D78_00000AFC_028E_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150D78_00000AFC_028E_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150D78_00000AFC.bin +0x28e",
+    "sha256_file": "814740f4d45bef15cae6adee66de3a9cb1104f62ccd6c6fc3bf0b73e81a8993f",
+    "visual_sha256_rgba_normalized": "b60fe87a35fb424be0b614449a690b3f95d71347dad94665f51d87022fa54d5d",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 428,
+      "boundaries": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 16,
+      "alpha_colors": 22,
+      "rle_runs": 144,
+      "decoded_pixels": 988
+    },
+    "visual_label": "цифра 7",
+    "same_pixels_indices": [
+      183
+    ]
+  },
+  {
+    "index": 184,
+    "file": "ab2_150D78_00000AFC_0446_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150D78_00000AFC_0446_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150D78_00000AFC.bin +0x446",
+    "sha256_file": "449d9b40604de7bfe2f0077d894ac0238ec34eccba0c24f61a7b21ffc6596dd0",
+    "visual_sha256_rgba_normalized": "df75dc9220c01b202c3894aeb83417c928d4ab22fceda186e015d67ac9f5672e",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 688,
+      "boundaries": [
+        3,
+        2,
+        3,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 25,
+      "rle_runs": 218,
+      "decoded_pixels": 1014
+    },
+    "visual_label": "цифра 8",
+    "same_pixels_indices": [
+      184
+    ]
+  },
+  {
+    "index": 185,
+    "file": "ab2_150D78_00000AFC_0702_32x42.png",
+    "path_in_bundle": "x280_assets/ab2_150D78_00000AFC_0702_32x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      32,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150D78_00000AFC.bin +0x702",
+    "sha256_file": "834931cb4e5b08a1323653bc4a2b45e9bad8dc291a0f046df31489a1dccdfd98",
+    "visual_sha256_rgba_normalized": "53171ec632fe9919aa2b8e3e0a026bc338ea1d39e3325c5ed7f7a4a075281f4b",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 638,
+      "boundaries": [
+        3,
+        2,
+        4,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 25,
+      "rle_runs": 194,
+      "decoded_pixels": 975
+    },
+    "visual_label": "цифра 9",
+    "same_pixels_indices": [
+      185
+    ]
+  },
+  {
+    "index": 186,
+    "file": "ab2_150D78_00000AFC_098C_26x15.png",
+    "path_in_bundle": "x280_assets/ab2_150D78_00000AFC_098C_26x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 150D78_00000AFC.bin +0x98c",
+    "sha256_file": "df5bd7397087caddc2902986bc70f1ae525a9de329c9de638dd147241b1d8632",
+    "visual_sha256_rgba_normalized": "69a6518b3c4a6cf467222d95be83bacc496c46047f548f0c3cb3fbf8448b9318",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 360,
+      "boundaries": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 23,
+      "rle_runs": 26,
+      "decoded_pixels": 325
+    },
+    "visual_label": "AM",
+    "same_pixels_indices": [
+      186
+    ]
+  },
+  {
+    "index": 187,
+    "file": "ab2_15158C_00000A8F_0004_26x15.png",
+    "path_in_bundle": "x280_assets/ab2_15158C_00000A8F_0004_26x15.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      26,
+      15
+    ],
+    "frames": 1,
+    "source": "AB2 inner 15158C_00000A8F.bin +0x4",
+    "sha256_file": "696dc9d105665a121a347545c3f540d6843fdb6f0074096bb35502f3ef547867",
+    "visual_sha256_rgba_normalized": "01a5b21508d4a5258045320981356be01725d5de7549a1ea1692ddd15ff2a760",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 330,
+      "boundaries": [
+        1,
+        1,
+        2,
+        1
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 17,
+      "alpha_colors": 20,
+      "rle_runs": 18,
+      "decoded_pixels": 299
+    },
+    "visual_label": "PM",
+    "same_pixels_indices": [
+      187
+    ]
+  },
+  {
+    "index": 188,
+    "file": "ab2_15158C_00000A8F_015A_10x42.png",
+    "path_in_bundle": "x280_assets/ab2_15158C_00000A8F_015A_10x42.png",
+    "format": "PNG — MediaTek AB2/RLE decoded",
+    "dimensions": [
+      10,
+      42
+    ],
+    "frames": 1,
+    "source": "AB2 inner 15158C_00000A8F.bin +0x15a",
+    "sha256_file": "17b5b536f3fc4278e202a007172fe8c90753fe8475d121f33bebaaf8f0fd80e7",
+    "visual_sha256_rgba_normalized": "95e28b5a11275f91a6a566685e8c644c3fe6a91f2ac92d9b22991541f4fb61a7",
+    "collection": "newly decoded AB2 resource",
+    "ab2_metadata": {
+      "resource_size": 180,
+      "boundaries": [
+        1,
+        6,
+        1,
+        7
+      ],
+      "pixel_format": 3,
+      "algorithm": 1,
+      "normal_colors": 13,
+      "alpha_colors": 17,
+      "rle_runs": 24,
+      "decoded_pixels": 232
+    },
+    "same_pixels_indices": [
+      188
+    ]
+  }
+]

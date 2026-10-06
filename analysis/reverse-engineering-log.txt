@@ -1,0 +1,445 @@
+[2026-10-04T09:43:03+00:00] STEP 1 — intake and identification
+file=/data/.agent-service/files/cc8a61ee-b064-4160-9a83-04273eb2807a/x280_backup_16M.bin
+size_bytes=16777216
+sha256=26632583efd33190eaf369091ced67204e46e73187208cba50d04a1159de06a7
+/data/.agent-service/files/cc8a61ee-b064-4160-9a83-04273eb2807a/x280_backup_16M.bin: data
+
+First 256 bytes:
+
+[2026-10-04T09:43:27.330322+00:00] STEP 1 — intake recovered (xxd unavailable; used Python byte inspection)
+bytes=16777216 sha256=26632583efd33190eaf369091ced67204e46e73187208cba50d04a1159de06a7
+first_256_hex=53 46 5f 42 4f 4f 54 00 00 00 00 00 01 00 00 00 00 02 00 00 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+ascii_runs=168988 utf16le_runs=4292
+known_ascii_signatures=['MT6261', 'MTK', 'Nucleus', 'MAUI', 'Xenium', 'X280']
+entropy_64KiB_first_32=6.55,6.96,6.93,6.87,6.90,6.95,6.97,6.92,6.90,6.94,6.99,6.97,6.94,6.81,5.56,7.94,7.49,6.93,6.54,4.31,7.99,7.12,7.50,7.99,6.70,6.78,8.00,7.99,7.97,7.98,7.97,7.97
+all_zero_bytes=1913252
+largest_ascii_strings:
+  003C8DFF (447): '7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  007C8DFF (447): '7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00BC8DFF (447): '7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00FC8DFF (447): '7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  003B925A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  003D385A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  003D445A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  003EB85A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  007B925A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  007D385A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  007D445A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  007EB85A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00BB925A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00BD385A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00BD445A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00BEB85A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00FB925A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00FD385A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00FD445A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00FEB85A (421): 'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+  00159B59 (192): '%(%(%""#\';=..22::2;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>=>=>==>=>===================================================;9-9.;;=;2'
+  00559B59 (192): '%(%(%""#\';=..22::2;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>=>=>==>=>===================================================;9-9.;;=;2'
+  00959B59 (192): '%(%(%""#\';=..22::2;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>=>=>==>=>===================================================;9-9.;;=;2'
+  00D59B59 (192): '%(%(%""#\';=..22::2;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>=>=>==>=>===================================================;9-9.;;=;2'
+  0016C406 (186): '                                                                                                                                                                                          '
+sample_utf16le_strings:
+  000008FF: 'ĀĀĀĀ'
+  00000FCF: '\xa0ȃ\xa0Ȁ'
+  000010D7: '\xa0ȋ\xa0Ȉ'
+  00001AB3: '\xa0ȃ\xa0Ȁ'
+  00002606: 'Ŕ¨T8'
+  00002E51: 'û(ǐ%'
+  0000302F: 'Bǐġ )Ð'
+  000030F9: 'ǹĀHÐ'
+  000031A1: 'GȀňƊ'
+  000031AF: 'GĀƠɈ'
+  000034DD: 'û(ǐ ½ȀH'
+  00004347: 'ǼƘȡƪ'
+  00004F3B: 'ćÕ ƽ ½ĀI'
+  00005D4D: 'ĠǠĀĠ'
+  00005D65: 'ǠĀĠǠ'
+  00005D8D: 'Ǡ!à!'
+  00005D99: 'Ǡ!à!'
+  00005DBD: 'ǠĀĠǠ'
+  00005DCD: 'ǠĀĠǠ'
+  00006363: '½Ȃ\xa0µ'
+  00006403: '½ȁ\xa0µ'
+  00006557: '½ȋ\xa0Ȋ'
+  000069FD: 'łÑ(ǐ'
+  0000831D: 'ĀȀĀȀ'
+  00008900: ' !"#$%&\'()*'
+  0000891A: '-./0123'
+  00008F57: '\xa0ȋ\xa0Ȉ'
+  00009199: 'yČɂÐ'
+  0000965D: 'Āģ©ǰ'
+  00009DE0: 'āŐăȂ'
+  00009EB0: 'āŐăȂ'
+  00009F18: 'āŐăȂā'
+  0000C13B: 'łÑƕǠ '
+  0000D4ED: 'Ā\xa0ȃ\xa0Ȁ'
+  0000D5FD: 'ɂÑȮÑ'
+
+[2026-10-04T09:43:53.429523+00:00] STEP 2 — layout, build markers, repeated blocks, language scan
+4MiB block SHA-256:
+  block0: 1424dba72bc8d36bd9a505ba5c66e715d77c27e6cc62fb2ac44d192b496f86a0
+  block1: 1424dba72bc8d36bd9a505ba5c66e715d77c27e6cc62fb2ac44d192b496f86a0
+  block2: 1424dba72bc8d36bd9a505ba5c66e715d77c27e6cc62fb2ac44d192b496f86a0
+  block3: 1424dba72bc8d36bd9a505ba5c66e715d77c27e6cc62fb2ac44d192b496f86a0
+block0_equals_others=[True, True, True]
+unique candidate natural-language strings in first 4MiB=1363
+first 180 candidates:
+  00000000: SF_BOOT
+  00000808: FILE_INFO
+  000008D4: EMI_INF
+  00000C63: pBRLYT
+  00000C6C: BBBBpGpGpGpG
+  0000155F: lHcpGnI
+  000018DC: assert fail at %x
+  00001ED1: MMMFILE_INFO
+  000029DC: Bootloader dead end(%d,%d)
+  00002CA8: Paired version mismatched, %d, %d
+  00002D04: Fast META triggered
+  00002E0F: pBLV1d!
+  00002ED4: Launching FactoryBin in Combine mode...
+  00002F04: No MAUI binary in FlashLayout or Flash
+  00002F54: Failed to get MAUI's first part
+  0000306C: BROM requested doing DL, beyond capbility
+  0000316F: pBLV1c
+  000031F4: No MAUI INFO found in MAUI bin
+  00004514: pBlock
+  00004E3C: abcdef
+  000057B3: aiIAaiI
+  000076B4: Invalid Operation
+  000076C8: Divide By Zero
+  000076D8: Overflow
+  000076E4: Underflow
+  000076F0: Inexact Result
+  00007700: SIGFPE: Arithmetic exception: 
+  000094E1: p(kcyAy
+  000095AA: sJsIF2
+  000099E1: xsT!hI
+  00009C2D: ppGh pG
+  00009D38: COMBO_MEM_SFI
+  0000A604: STACKEND
+  0000A8C0: MTK_ROMINFO_v09
+  0000B749: OH@LB C
+  0000BD60: memory_dump_off
+  0000BD74: memory_dump_on
+  0000C12F: apLqI hqN
+  0000C3A8: asm core rmutex
+  0000C714: RTFiles
+  0000CD20: APP_ASM_MUTEX
+  0000CE6C: Warning: stack_resources_init() BufferPool creation Failed.
+  0000D418: Disk %d
+  0000D916: FLFMGN)
+  0000F162: uMsI(h
+  0000F50F: h 1HuH
+  0000FDFA: X GU/q
+  00010A50: send MSG_ID_AUX_ID event
+  00010A84: HcpGVS
+  00011284: pGpGpG
+  00011A28: UEUQ1!
+  00011F9B: pSWLA is enabled
+  00011FB0: SWLA is successfully enabled
+  0001268C: MASS STORAGE
+  00012A88: G2D State
+  00012B24: GDC IMGDEC
+  00012B34: gdi_event_group
+  0001340C: L1TASK_WKP
+  000138B0: MPAL_Q
+  00013A20: socket pool
+  00014854: FtEvent
+  00014A68: L1Audio
+  00014A74: Aud_Sema
+  00014C24: IJJNRX
+  00015702: XM8!hh
+  00015F45: TFN0h 0Az
+  00016B0B: h@!jFp
+  00016F24: BMT Timer
+  00017194: G2D ISR
+  000171C4: g2d_evt
+  00017AC9: ta0LtDp
+  00018168: soc_evt%d
+  000181B0: SOC_BASE_TIMER
+  00018A20: TR: Discards %d chars.
+  00018A40: tst lost one command !!
+  00018B48: TR recevied one incorrect command from PC.
+  00018B90: pGpGpGpG
+  000192F8: Unknown
+  000199FE: AXPxXC
+  00019D9F: JXCSV@
+  0001A0F3: LL'gUm
+  0001A863: s8!ACI
+  0001AEAF: I, ZCQ
+  0001BD20: ACM DATA1
+  0001BD3C: ACM COMMU1
+  0001BDEE: O kFXtph00
+  0001C187: zkFa!hp
+  0001C554: Caller Address: 0x%x
+  0001CA3C: SYSPOOL
+  0001CA50: INTSRAM
+  0001CA64: INTVECT
+  0001D47C: wav_sema
+  0001DA33: y0qtqr
+  0001DC5F: qAx09Yq
+  0001DF84: top_six
+  0001DF8C: C1_test
+  0001DF94: C2_test
+  0001DF9C: BCCH_CTRL
+  0001DFAC: BLIND_HO
+  0001DFB8: add_ba_list
+  0001DFC8: read_scsi
+  0001DFD8: FORCE_CCO_TIMER_EXPIRE
+  0001DFF0: NOT_SEND_PCCF
+  0001E000: BLIND_PCCO
+  0001E00C: MAC_ENTER_IDLE_FOR_PCCO
+  0001E02C: enter_ready
+  0001E038: cannot_cr
+  0001E044: can_cr
+  0001E04C: add_to_bar_cell
+  0001E150: conn_rel_req
+  0001E160: repeated_sro
+  0001E170: repeated_srr
+  0001E180: L2_rand_fill_bit
+  0001E19C: align_serv_si_timer
+  0001E1B4: rr_em_feature_1
+  0001EAF6: ayiq.q!
+  0001F924: YCzJ(h
+  0001FAF4: MTFMLock
+  00020301: JAV8 m
+  00020C7F: Nx!0xAC
+  00020E19: xJC!IQ
+  00020E3F: Ox!8xAC
+  00020EEF: sAnh0h
+  00021F3B: VAV@jU
+  000223C5: e(xd!AC
+  00023422: Db 0As
+  000235D6: Ry@1bs
+  00023795: xKIXC@
+  000237B1: xAJYCQX 1
+  000239A1: JACQXKl
+  00025463: hL!jFa
+  0002648C: dest_mod is not found:(%d).
+  00026A46: ALK ah
+  00026DCF: ppGc pG
+  00027075: XYXYYXXYXY
+  00027DA2: ph4hAx
+  00027FE0: apgrhhAx
+  0002899C: mac_data_blk_hdlr.c
+  0002971D: VRIBCQ
+  00029D76: H hC)I
+  0002AD8C: Filters are set successfully but not saved to NVRAM!!
+  0002B2BF: i xijd
+  0002BB88: ha(iii@
+  0002BCD7: KpiazXC@
+  0002C465: rIiAp 
+  0002CB99: x2IXCA
+  0002D24D: HQC@XAl
+  0002E8A3: iiF c 
+  0002FCC4: ga i@i
+  00031024: iJjHl!
+  00031045: hha i.a
+  0003111A: wi-I8x
+  0003137C: uCvFqC
+  00032041: jYCkFr1D
+  000324A3: qiyAq@y (
+  000330BF: qT 'rGU
+  00033269: qqyAq@y!(
+  0003356F: qiyAq@y!(
+  00033617: qiyAq0h
+  0003457B: i7h@huh
+  000347FE: H hC)ID
+  000357D6: YYYYYYY
+  00035902: AC)ahhha 
+  0003593B: hHC)i@
+  00037584: Aqah 0Q
+  000399DD: h-!jFM
+  000399F9: h,!jFM
+  0003A4E8: hight bat temp occurs
+  0003A554: low bat temp occurs
+  0003AC77: hGhFix4X
+  0003AECC: DCL WDT LISR
+  0003B0D4: EhTH)x
+  0003B44D: h hih@
+  0003C5E3: s1p7qwq
+  0003D791: XXPxy@
+  0003E297: CMxx)x
+  0003F110: alice.c
+  0004010F: MXCP!@
+  00041461: d7twt 
+  000414FC: SIMEVT
+strings around language-marker zone:
+  0011F77B: /TU]l|
+  0011F824: @To}
+  0011FC3D: 8:;B~
+  0011FFD6: *#0044#
+  0011FFE0: en-US
+  00120014: *#0007#
+  0012001E: ru-RU
+  00120052: *#0380#
+  0012005C: uk-UA
+  00120090: *#0040#
+  0012009A: ro-RO
+firmware id markers:
+  6261D_2536_V08C_RU: ['0xa070', '0xa0c6', '0xa900', '0xa956', '0xe7e72', '0xe7ede', '0xe7f4a', '0xe7fb6', '0xe8022', '0x193046', '0x197d36', '0x197da2', '0x1aaefe', '0x3a6c00', '0x3d8400', '0x3ff72f', '0x40a070', '0x40a0c6', '0x40a900', '0x40a956', '0x4e7e72', '0x4e7ede', '0x4e7f4a', '0x4e7fb6', '0x4e8022', '0x593046', '0x597d36', '0x597da2', '0x5aaefe', '0x7a6c00', '0x7d8400', '0x7ff72f', '0x80a070', '0x80a0c6', '0x80a900', '0x80a956', '0x8e7e72', '0x8e7ede', '0x8e7f4a', '0x8e7fb6', '0x8e8022', '0x993046', '0x997d36', '0x997da2', '0x9aaefe', '0xba6c00', '0xbd8400', '0xbff72f', '0xc0a070', '0xc0a0c6', '0xc0a900', '0xc0a956', '0xce7e72', '0xce7ede', '0xce7f4a', '0xce7fb6', '0xce8022', '0xd93046', '0xd97d36', '0xd97da2', '0xdaaefe', '0xfa6c00', '0xfd8400', '0xfff72f']
+  FLYCOM61D_M550_X280: ['0xa040', '0xa8d0', '0x19308f', '0x3a6c2f', '0x3d842f', '0x3ff75c', '0x40a040', '0x40a8d0', '0x59308f', '0x7a6c2f', '0x7d842f', '0x7ff75c', '0x80a040', '0x80a8d0', '0x99308f', '0xba6c2f', '0xbd842f', '0xbff75c', '0xc0a040', '0xc0a8d0', '0xd9308f', '0xfa6c2f', '0xfd842f', '0xfff75c']
+
+[2026-10-04T09:44:09.942060+00:00] STEP 3 — language metadata and UI-string scan
+locale_tags=['bk-HR', 'en-US', 'ru-RU', 'uk-UA', 'ro-RO', 'en-US', 'en-US', 'en-US', 'ru-RU', 'ru-RU', 'ru-RU', 'ro-RO', 'ro-RO', 'ro-RO', 'rz-VB']
+dial_prefix_markers=['*#0044#', '*#0000#', '*#0007#', '*#0044#', '*#0007#', '*#0380#', '*#0040#', '*#0000#', '*#6810#', '*#0040#', '*#0380#', '*#1234#', '*#0044#', '*#28144#', '*#1005#', '*#8375#', '*#0007#', '*#4636#']
+locale offsets: 00097F04=bk-HR, 0011FFE0=en-US, 0012001E=ru-RU, 0012005C=uk-UA, 0012009A=ro-RO, 00120703=en-US, 0012071B=en-US, 00120733=en-US, 0012074B=ru-RU, 00120763=ru-RU, 0012077B=ru-RU, 001207DB=ro-RO, 001207F3=ro-RO, 0012080B=ro-RO, 0016F5ED=rz-VB
+dial marker offsets: 000C34BC=*#0044#, 000C34C4=*#0000#, 000C34F8=*#0007#, 0011FFD6=*#0044#, 00120014=*#0007#, 00120052=*#0380#, 00120090=*#0040#, 00190A08=*#0000#, 00190A10=*#6810#, 00190A18=*#0040#, 00190A20=*#0380#, 00190A56=*#1234#, 00190A5E=*#0044#, 00190A66=*#28144#, 00190A75=*#1005#, 00190A89=*#8375#, 00190A9D=*#0007#, 00190AB4=*#4636#
+Hex/context near locale table is available in /data/x280-language-region.txt
+
+[2026-10-04T09:44:28.498905+00:00] STEP 4 — full-Unicode UTF-16LE scan (first 4MiB; copies verified identical)
+plausible_runs=259549 char_script_tallies={'other': 1239718, 'CJK': 803324, 'Latin': 98245, 'Cyrillic': 28729}
+cyrillic_or_cjk_runs=240112
+full results in /data/x280_utf16le_unicode.txt
+
+[2026-10-04T09:44:55.279525+00:00] STEP 5 — strict multilingual text verification
+literal byte probes recorded to /data/x280-step5-output.txt
+strict Cyrillic UTF16LE and UTF16BE scans saved as x280_little_strict_cyrillic.txt and x280_big_strict_cyrillic.txt
+language area hex dump saved as /data/x280-language-region-hex.txt
+
+[2026-10-04T09:46:06.158900+00:00] STEP 6 — QA, interpretation, and first-pass report
+Verified: SHA-256 unchanged; four 4MiB blocks are byte-identical; all findings deduplicated to first copy.
+Confirmed locale tags: en-US, ru-RU, uk-UA, ro-RO; codes eng/rus/ukr/rum.
+Recovered readable Cyrillic keyboard table, SMS-style phrases, and preset radio station names; exact offsets and examples in x280-text-language-report.md.
+Correction/quality note: STEP 4 full-Unicode scan was exploratory and overinclusive; machine code produces many false Unicode/CJK runs. Disregard its raw run count and script tallies. STEP 5 strict Cyrillic scan + literal encoding probes are the validated evidence.
+No claim of source recovery or encryption status. Next: parse image/resource boundaries and test resource compression.
+Artifacts: x280-text-language-report.md, x280-readable-strings.txt, x280_ascii_strings_firstcopy.txt.
+
+[2026-10-04T09:46:35.678883+00:00] STEP 7 — image signatures and layout heuristics
+Searched first unique 4MiB for boot/MediaTek identifiers and common container/compression signatures (gzip/xz/zip/png/jpeg/gif/riff/bzip2/lz4/ELF/ZIMAGE).
+No standalone ZIMAGE marker or common archive/file magic was found in this scan; this does not rule out raw LZMA/LZ4 or vendor-specific packing.
+High-entropy ranges are heuristic only; not proof of encryption or compression. Detailed offsets printed in x280-step7-output.txt.
+
+[2026-10-04T09:47:44.957888+00:00] STEP 9 — revised scope: built-in UI/resources, not editable user content
+User clarified that sample SMS phrases and radio-station labels are editable/user-level content, not the target system UI; exclude them from conclusions about the UI text.
+Validated and extracted 8 actual JPEG/PNG/GIF image objects via format parsers into /data/x280_assets; dimensions and hashes in x280-image-assets.json.
+Keyword-screened ASCII candidates for built-in UI labels; see /data/x280-system-ui-candidates.txt. Candidates still require context classification; source/debug strings excluded where apparent.
+Next text focus: locale-bound resource tables and image/resource indexes, not editable content strings.
+
+[2026-10-04T09:48:29.880012+00:00] STEP 10 — reclassify target and asset review
+User clarified SMS templates and radio names are editable content; they are explicitly excluded from core UI-text findings.
+Reviewed contact sheet: three scenic 240x320 JPEG wallpapers, one 240x320 GIF spinner, four 240x320 flashlight ON/OFF illustrations with English/Chinese labels. See x280-image-assets.json and x280_assets_contact_sheet.jpg.
+Only a small set of potential UI/status strings is plain-text so far (Camera, Battery, In-call, Bluetooth Earphone Mode, Version, network messages); full menu text remains unresolved. Next task: map locale-specific resource tables.
+
+[2026-10-04T09:48:43.561312+00:00] STEP 11 — correction to signature-scan wording
+Correction: STEP 7 did report JPEG/PNG/GIF/RIFF signature hits; its phrase “no common archive/file magic” was too broad. STEP 9 subsequently validated eight embedded JPEG/GIF assets. The STEP 7 check searched for printable `ZIMAGE` only; STEP 21 later found numeric 0x4000005C markers, so the earlier negative must not be read as ruling out ZIMAGE-ER records.
+
+[2026-10-04T09:54:07.615862+00:00] STEP 13 — direct image-offset reference hunt
+Tested all 8 validated payload starts as raw LE/BE 32-bit offsets, 24-bit offsets, and common MTK-style mapped addresses (including 0x08000000 + file offset), plus payload lengths.
+Exact matches are logged in x280-image-reference-hunt.json and x280-step13-output.txt. A hit alone is not an index: table/context must be validated by clustering and nearby field structure.
+
+[2026-10-04T09:54:46.952630+00:00] STEP 14 — image wrapper/header and index-reference search
+Found a repeated 8-byte per-JPEG prefix immediately before each of seven JPEG payloads: 09 01 + 24-bit little-endian size + 00 40 01 0F. The size field exactly matches JPEG byte length. This is strong evidence of inline resource framing, not yet an ID→offset index.
+Searched both payload and wrapper offsets as raw 24/32-bit and common base-mapped pointers. No clustered set of direct refs was identified; individual 24-bit hits from STEP 13 are not enough to claim an index.
+GIF has a different preceding pattern; inspect separately. Detailed wrapper data in x280-image-wrapper-analysis.json and x280-step14-output.txt.
+
+[2026-10-04T09:56:36.740805+00:00] STEP 15 — confirmed mapped pointer arrays and full GIF extraction
+Strong evidence for resource pointer arrays: aligned LE32 values at 0x1197E0 point to five image wrappers; a second array at 0x10FE38 points to eleven graphic wrappers. Each pointer equals 0x10000000 + file offset.
+The 0x1197E0 array is followed by count=5 at 0x1197F4 and a pointer back to 0x1197E0 at 0x1197F8. This is consistent with a small indexed resource structure, though resource IDs/names are not decoded yet.
+Seven JPEG wrappers use tag 09 01 + 24-bit LE payload length + 00 40 01 0F. Two GIF wrappers use different type bytes and lengths; full declared lengths were used to carve the GIFs.
+Correction: the STEP 14 script printed findings but its last artifact-writing line used the wrong filename and errored after logging; this step recreated a clean table map and validation outputs.
+Mapping and asset manifests: x280-image-index-map.json; contact sheet x280_assets_contact_sheet_v2.jpg.
+
+[2026-10-04T09:57:06.691802+00:00] STEP 16 — inspect secondary pointer-array payloads
+Analyzed seven non-JPEG blocks referenced from secondary graphic pointer array 0x10FE38 by their start-to-next-pointer extents. Header samples, lengths, and entropy written to x280-step16-output.txt.
+These blocks have a proprietary-looking 00 40 01 0F marker but were not yet decoded as standard images; do not label them app icons until rendered/classified.
+
+[2026-10-04T09:57:48.445847+00:00] STEP 17 — table root crossrefs and raw graphic decode tests
+Tested candidate resource-table roots for absolute ROM-pointer crossrefs and tried standard gzip/zlib/raw-DEFLATE/LZMA on seven 240x20-looking blocks; results printed to x280-step17-output.txt.
+No file names or explicit symbolic resource IDs have been resolved yet; pointer arrays show ordinal order, not semantic ID names.
+
+[2026-10-04T09:58:31.559394+00:00] STEP 18 — explicit UI labels and image pointer cross-reference mapping
+Exact search for 44 menu/shortcut/message/contact labels across UTF-8, UTF-16LE/BE, CP1251, ASCII found 15 literal hits; this does not rule out localized resource IDs or nonliteral strings.
+Mapped all references to known image wrappers; resulting clusters and any hits saved to x280-table-and-label-search.json and x280-step18-output.txt.
+Current proven tables: 5-entry image pointer array at 0x1197E0, count at 0x1197F4; 11-entry pointer run at 0x10FE38. Entry ordinals are known, semantic resource IDs/names are not yet proven.
+
+[2026-10-04T09:59:20.953545+00:00] STEP 19 — scan for every repeated image/resource wrapper
+Pattern scan found 7 total wrapper candidates: 7 JPEG(0901), 2 GIF(03xx), and 7 proprietary 240x20 blocks(0134) in this first unique 4MiB. Pointer refs and offsets in x280-all-resource-wrappers.json.
+Exact menu-word hits from STEP 18 were false positives (cacheMenu code, RTFiles, Camera ISR, Backlight); no literal main-menu labels found in the tested encodings.
+This wrapper inventory may reveal the base for complete resource indexing; application-icon IDs still require name/ordinal mapping and raw-image decoding.
+
+[2026-10-04T09:59:41.034240+00:00] STEP 19 correction — corrected wrapper-tail parsing
+The initial Step 19 pattern used a four-byte trailer where the formats carry three trailer bytes, so it missed the JPEG/GIF wrappers. Corrected scan finds 7 JPEG + 2 GIF + 7 raw 240x20 records; pointer-table references are recorded in x280-all-resource-wrappers.json.
+JPEG: 09 01 + 24-bit little-endian payload size + 40 01 0F. GIF records use 03 01 / 03 0F with distinct 3-byte trailers. Raw blocks use 34 01 + 16-bit field + 00 40 01 0F, followed by 240x20 header.
+
+[2026-10-04T10:01:03.717600+00:00] STEP 20 — answer the resource-index question and assess same-size swap
+Confirmed 5-slot pointer array at file 0x1197E0; count=5 at 0x1197F4 and self/array pointer 0x101197E0 at 0x1197F8. A separate run at 0x10FE38 has 11 image pointers (seven raw 240x20 records, four JPEG wrappers) separated by a non-image pointer at 0x10FE48.
+Updated report: explicit menu-label searches produced no confirmed UI labels; apparent matches are debug/factory-test strings. Wrapper/pointer map and caveats recorded.
+Same-size payload replacement looks feasible for the indexed JPEG/GIF assets if type, dimensions, declared byte length, and pointer positions are preserved; full firmware checksum/boot acceptance is not yet verified. Semantic slot IDs and launcher icon table remain unresolved.
+
+[2026-10-04T10:02:15.348182+00:00] STEP 21 — numeric ZIMAGE-ER magic scan
+User supplied candidate magic values 0x4000005C family. Searched exact LE bytes 5C 00 00 40 and BE bytes 40 00 00 5C across all 16MiB, plus aligned 32-bit 0x400000xx words and ASCII ZIMAGE/ZIMAGE-ER/FILE_02.
+Exact LE hits=228; exact BE hits=0; ASCII ZIMAGE=0; ASCII ZIMAGE-ER=0; FILE_02=0.
+Offsets and contexts are in x280-zimage-magic-scan.json and x280-step21-output.txt. This numeric-header scan supersedes the earlier ASCII-only statement that no ZIMAGE marker was seen.
+
+[2026-10-04T10:04:00+00:00] STEP 22 — corrected numeric ZIMAGE-ER marker interpretation
+User flagged that the earlier “no ZIMAGE” result had searched printable text instead of the magic value. Rechecked exact little-endian 5C 00 00 40 and reversed 40 00 00 5C. There are 57 exact LE hits in the unique first 4MiB (228 total across the four identical copies), zero exact reversed-endian hits, and no ASCII ZIMAGE/ZIMAGE-ER/FILE_02 strings. Resource-like high-entropy clusters at 0x13D144–0x151C04 and 0x170FEC–0x17E49C; isolated 0x09BDA0 is code-adjacent and treated cautiously. Headers share structured fields; e.g. +4 at 0x13D144 is 0x00072E00. This is consistent with ZIMAGE-ER/LZMA resources, but exact schema is not proven and no decompression succeeded. See x280-zimage-magic-scan.json and report addendum.
+
+[2026-10-04T10:05:00+00:00] STEP 23 — static WChinaTool archive inspection
+User-supplied WChinaTool_v0.4.3.rar contains one UPX-packed PE32 GUI executable. Extracted and statically unpacked with UPX; executable never run. Strings include MTK_ROMINFO_v0, MTK NOR/NAND, flash-size output, ROM version and “Find Languages”. This suggests an older MTK ROM/language utility but gives no evidence of MT6261/ZIMAGE-ER compatibility. See x280-WChinaTool-static-notes.md.
+
+[2026-10-04T10:18:00+00:00] STEP 24 — deeper image-signature sweep and newly extracted assets
+Scanned the unique first 4MiB for valid decoded JPEG/GIF/PNG/BMP formats rather than relying only on the previous wrapper list. Found five additional valid 39x42 looping, four-frame GIFs at 0x152200, 0x152F50, 0x153CA0, 0x1549F4, 0x15574C; labels identify DAF, IMY, MID, WAV, AMR audio-format icons. Found one valid 240x158 BMP at 0x1570D0 showing a stopwatch (RF-SU200). The GIFs have 8-byte 03 04 wrappers; their 24-bit LE lengths match each parsed GIF payload (3399, 3399, 3403, 3406, 3407 bytes). No direct absolute 32-bit pointers to these GIF payload starts found; index semantics unresolved. These are new images but not launcher icons. New extracted assets/contact sheet/manifest in x280_deep_assets; report updated with 15 valid image assets total.
+
+[2026-10-04T10:33:00+00:00] STEP 25 — ZIMAGE raw LZMA resource decode confirmed
+The 0x4000005C marker cluster contains raw LZMA1 streams with property byte 0x5C (lc=2, lp=0, pb=2), payload beginning at marker+13, and a 1MiB dictionary worked across tested records. 52 of 56 candidate records from 0x13D144 onward yielded nonempty decode. Structural confirmation: outputs contain intact nested resource wrappers, valid GIFs/BMPs, and UTF-16LE language strings. Four large/different spans remain undecoded; decode streams currently end without LZMA EOS, so outputs are partial by decoder status even where nested file/resource lengths validate. Decoded files are in x280_decompressed_segments/.
+
+[2026-10-04T10:34:00+00:00] STEP 26 — recovered localized UI text and more images
+Extracted exact Russian labels in 1776E4: “Ярлыки” +0x6094, “Сообщения” +0xCE7E, “Контакты” +0x2BA0, “Настройки” +0x0F66, “Главное меню” +0xB95C; “Меню” appears at 1749A0+0x40E4. English counterparts include Main menu, Messages, Shortcuts, Settings, Phonebook, Contacts and File manager. The large text blocks also contain hundreds of other system strings. The decoded ZIMAGE resource data yields 27 additional validated images (23 GIF, 4 BMP), bringing the confirmed count to 42 (7 JPEG, 30 GIF, 5 BMP). Per user, the series of 87x56 3D-block GIFs is file-manager memory graphics. See x280-confirmed-system-ui-labels.txt and x280_decoded_assets/zimage-deep-contact-sheet.png.
+
+[2026-10-04T10:35:00+00:00] STEP 27 — firmware MMI/engineering-code string table
+Located a contiguous NUL-separated code list at 0x1909BF and confirmed literal strings including *#66*#, *#87#,*#6810#,*#28144#,*#3366*#,*#5566183#,*#63342835#,*#8375#,*#06#, language codes *#0007#,*#0044#,*#0380#,*#0040#, and additional candidates. Presence is confirmed; exact behavior is not tested on the X280. Generic MAUI references warn codes vary by OEM; *#6810# is flagged avoid because it may disable engineering codes until reflash. See x280_deep_assets/x280-engineering-codes.md.
+
+[2026-10-04T10:36:00+00:00] STEP 28 — user semantic correction for 3D-block GIFs
+User identified the 87x56 3D rectangular GIF sequence as file-manager memory graphics. Asset classification updated; use this as context when locating sibling storage-card/usage indicators.
+
+[2026-10-04T12:15:00+03:00] STEP 29 — corrected exact LZMA-Alone header and size-limited extraction
+Correction to STEP 25: the 13-byte prefix is standard LZMA-Alone structure: property byte 0x5C (lc=2, lp=0, pb=2), LE32 dictionary size 0x00400000 (4 MiB), then LE64 uncompressed size beginning at header byte +5; compressed raw LZMA1 stream begins at +13. Earlier note that a 1MiB dictionary worked and that stream outputs were potentially partial was inaccurate. Scanning all 57 marker hits in the unique 4MiB: 55 records decoded to exactly their declared output size, one had invalid fields, and one large candidate at 0x199FF4 failed as corrupt. Exact outputs saved to x280_decompressed_segments_exact/manifest.json and numbered *.bin files. Exact rescan found 29 valid image instances (25 GIF, 4 BMP), including multiple assets embedded in the same decompressed block; count includes repeated variants/occurrences and is not a claim of 29 unique designs. Confirmed localized labels still present in size-exact data.
+
+[2026-10-04T12:17:00+03:00] STEP 30 — exact-length no-EOS re-encode proof for BMP resource
+Modified one palette entry in the 30x26 BMP inside the resource at 0x1418F8. Correction to an attempted proof script: liblzma match-finder enum 3 is HC3, not BT3. Verified encoder settings are raw LZMA1, lc=2/lp=0/pb=2, 4MiB dictionary, NORMAL mode, HC3 match finder, nice_len=24, depth=16. Full EOS-terminated output was 1192 bytes; removing its 5-byte EOS tail yielded an 1187-byte payload, exactly equal to the original compressed slot from 0x141905 through 0x141DA7. Header, resource boundaries, adjacent bytes, and 4MiB working-copy size remained unchanged. Re-decoding the patched slot to the header-declared 2768 bytes produced byte-identical modified output; decoder EOS flag remained false as expected for no-EOS stream. This proves an in-place same-length repack for this isolated resource/container slot only; it does not prove whole-firmware checksum/boot acceptance. Proof payload, original header/slot, and JSON in /data/x280_repack_proof/.
+
+[2026-10-04T12:25:00+03:00] STEP 31 — two additional previously unlisted 76x41 GIF graphics
+Scanning size-exact LZMA outputs for nested valid image signatures found a sixth ZIMAGE resource at 0x151C04 containing two GIFs missed in the earlier sheet: a 6-frame 76x41 bright-green checkmark animation at inner +0x0C, and a one-frame 76x41 rounded green panel/indicator at inner +0x3CD. Extracted to x280_decoded_assets/151C04_000c_028.gif and 151C04_03cd_029.gif; new contact sheet x280_decoded_assets/new-76x41-gifs-contact-sheet.png. These are two image occurrences not previously shown; no app/menu semantic label confirmed yet.
+
+[2026-10-04T12:27:00+03:00] STEP 32 — proprietary 240x20 graphic blocks remain unresolved
+Re-inspected seven 0x3401 wrappers. Their 24-bit length at +2 agrees with record extent minus the 10-byte wrapper; dimensions decode as 240x20. Inner data includes a variable count-like byte (e.g. 0x39 = 57) and a sequence of 16-bit color-looking values, followed by a high-entropy body. Standard GIF/BMP/JPEG signatures, common RLE, zlib/gzip/deflate, and LZMA attempts did not decode them. Public search for the exact marker/format returned no direct format documentation; continue local reverse engineering without asserting a palette/RLE schema.
+
+[2026-10-04T12:32:00+03:00] STEP 33 — found eighth nested custom 240x20 graphic block
+Exact structural scan of all size-limited LZMA outputs for 34 01 <24-bit length> 00 40 01 0F identified another structurally valid 240x20 image block at output 14ADE8+0x4, declared 3052-byte body; palette/count-like value is 40. This makes eight total valid-looking 240x20 records (seven raw indexed-pointer blocks + one nested ZIMAGE block). The codec remains undecoded. The extra wrapper was missed by the direct raw-firmware sweep.
+
+[2026-10-04T12:35:00+03:00] STEP 34 — complete validated image inventory and updated contact sheet
+Combined direct firmware assets, five audio-format GIFs + stopwatch BMP, and size-exact ZIMAGE images. Inventory is 43 valid image files/resources: 7 JPEG, 31 GIF, 5 BMP; 43 unique first-frame pixel hashes. The 43-image contact sheet and manifest are /data/x280_all_43_assets_contact_sheet.png and /data/x280_all_43_assets_manifest.json. It explicitly notes eight undecoded 240x20 blocks. A bundle v2 contains all extracted 55 exact LZMA outputs, image files, reports, logs, and repack proof.
+
+[2026-10-04T12:42:00+03:00] STEP 35 — corrected canonical image count and loader carve
+Cross-checking the original direct-image folder against the pointer-wrapper manifest found one omitted canonical asset and one partial carve: Xenium shutdown splash GIF at 0x1172C4 (241x321, one frame), and the full loader GIF at 0x117D48 (240x320, 15 frames, 6807 bytes). An earlier file `gif_117D48.gif` was a 1460-byte, two-frame partial carve of the same offset; use `boot_or_loading_gif_117D48.gif` as the canonical wrapper-sized resource instead. Corrected unique inventory = 15 direct assets + 29 exact ZIMAGE images = 44 valid image files (7 JPEG, 32 GIF, 5 BMP). No duplicate first-frame pixel hashes across the 44 canonical items. Rebuilt sheet/bundle and corrected text-language report.
+
+[2026-10-04T12:48:00+03:00] STEP 36 — deeper custom-image codec probes
+For all eight structurally valid 240x20 blocks, confirmed a 3-byte length in the 0x3401 wrapper, width=240/height=20, and a variable count-like field followed by 16-bit-looking values and high-entropy payload. Added the nested block at 14ADE8+0x4 to comparisons. Tested common direct/RLE interpretations (RLE4/8, PackBits, PCX), raw/packed 4- and 6-bit indexed interpretations, RGB565 raw probe, and standard gzip/zlib/DEFLATE/LZMA without obtaining a valid image. Searches for exact 3401/0040010f marker or MAUI bitmap-decoder code in public web/GitHub search returned no directly applicable format reference. No custom strip is presented as decoded; remain a reverse-engineering target.
+
+[2026-10-04T12:55:00+03:00] STEP 37 — corrected palette alignment; reject loose RLE4 render as false positive
+Rechecked 0x3401 block layout: the 32-bit count-like field is at +16, the 16-bit table begins at +20 (including leading 0xFFFF), and candidate pixel data begins at +20+2*count. Earlier probe scripts began this tail two bytes late. Re-ran common decoders on correct offsets. A permissive linear RLE4 loop can be made to emit 4800 nibbles from the first ~50 bytes, but that is not valid BMP-RLE4: encoded runs cross 240-pixel rows without EOL controls; the remaining ~4 KiB is unconsumed. Its noisy preview is a false positive and was rejected. RLE8 yields out-of-range values relative to the candidate 40–59 color table and likewise is not a valid render. No new decoded image is claimed. Standard image-signature sweep remains at 44 canonical valid assets; eight custom strips unresolved.
+
+[2026-10-04T13:20:00+03:00] STEP 38 — resource-index cluster and 11 new proprietary bitmap candidates
+Corrected the secondary pointer map: 0x10FE38..0x10FE64 contains 12 words, not 11 consecutive images; 0x10FE48 is 0xB0000641 (non-image code/MMIO-space-looking value), splitting four earlier custom blocks from seven later graphic pointers (three custom + four flashlight JPEGs). Discovered a separate aligned resource-pointer cluster at 0x10FA90: eight pointers to wrapper starts immediately before exact LZMA-Alone headers at 0x14EB20, 0x14F158, 0x14F70C, 0x14FE14, 0x150704, 0x150D78, 0x15158C, and 0x151C04. Exact decoded output sizes are 2242, 1878, 2222, 2750, 2544, 2812, 2703, and 2393 bytes.
+
+Scanning all exact LZMA outputs found 11 additional nested 0x3401-tagged records with internally consistent 24-bit lengths, 16 RGB565-looking palette entries (field count 17 in most records), and monotonic 3-byte little-endian row-offset tables. Row counts 15–25, maximum row-start offsets usually 239. This strongly suggests additional custom indexed raster resources, plausibly 240-pixel wide; dimensions and pixel codec are not proven. Saved complete record extracts and manifest under /data/x280_custom_bitmap_candidates/. These are not yet decoded images and are not added to the confirmed 44-asset sheet. Pointer map corrected at /data/x280-image-index-map.md/.json.
+
+[2026-10-04T13:40:00+03:00] STEP 39 — identified MediaTek AB2 and recovered first clock assets
+Found a public MAUI GDI implementation and mapped image resource type byte 0x34 (decimal 52) + frame count 0x01 to AB2 / Alpha Bitmap v2. AB2 headers contain packed 12-bit width/height, crop boundaries, color-format and algorithm fields; this set uses RLE. RLE pack headers encode (lower 7 bits)+1 pixels and use the high bit to distinguish repeated-color from literal color indices. The bitstream is little-endian, palette-index bit width derives from normal+alpha palette counts, index 0 transparent. Applied the decoder to nested resources; the initial 11 highlighted records render the clock digits except the missing digit 7, plus AM/PM (the broader scan subsequently locates the 7). Source references and decoder method are in report addendum.
+
+[2026-10-04T13:45:00+03:00] STEP 40 — exhaustive bounded AB2 scan: 144 resource occurrences decoded
+Scanned every 0x34 01 candidate in all 55 exact-length LZMA outputs; accepted only records with declared wrapper bounds, matching outer/inner dimensions, supported AB2 format/algorithm, valid palette extents, complete RLE output of exactly the visible dimensions, and every index within the declared palettes. Recovered 144 AB2 resources across 22 decompressed segments, spanning 7x13 through 240x38. The images include 26x26 app/system-style icons, 52x52 graphics, toolbar/status glyphs, ten clock digits 0–9, and AM/PM. Rendered family has 143 unique RGBA pixel sets (one duplicate); combined with prior 44 assets the current collection is 188 resource occurrences / 187 visual designs. Full master sheet and manifest: /data/x280_all_188_assets_contact_sheet.png and /data/x280_all_188_assets_manifest.json. AB2 output folder: /data/x280_ab2_assets/. 0x3401 proprietary 240x20 blocks are a distinct unresolved family and were excluded.
+
+[2026-10-04T13:55:00+03:00] STEP 41 — user confirms AB2 collection includes application icons
+User recognized the newly decoded graphics as the phone’s application icons. Updated classification from generic “app/system-style icons” to user-confirmed application-icon collection. Per-icon application names and resource-ID/launcher-slot mapping remain unresolved.
+
+[2026-10-04T14:05:00+03:00] STEP 42 — confirmed 42-entry compressed-resource pointer directory
+Exact absolute-pointer cross-references show that file offsets 0x10FA08..0x10FAAC form a contiguous 42-word directory. Every word targets the 4-byte wrapper immediately preceding a valid LZMA-Alone header from 0x13D144 through 0x151C04; the eight pointers previously noted at 0x10FA90..0x10FAAC are its final entries. Cross-referenced each bundle to AB2 occurrence counts/inner offsets in x280_lzma_resource_pointer_directory.json. This directory maps resource groups, not semantic app IDs; the next word 0x167 at 0x10FAB0 remains unexplained.
+
+[2026-10-04T14:12:00+03:00] STEP 43 — explicit 42-count and code-referenced directory header
+Confirmed 0x10FA04 stores LE32 value 42 immediately before the 42-pointer array at 0x10FA08. Code literals at 0x85AA4 and 0x85AA8 point to ROM addresses 0x1010FA04 and 0x1010FA08 respectively, consistent with code consuming both the declared count and pointer-array base. The record at 0x10FA00 is 0xF017CF44 and remains uninterpreted. Updated the pointer-directory JSON, map and report.
+
+[2026-10-04T15:05:00+03:00] STEP 44 — localized string-bank descriptor-table lead
+Scanned absolute little-endian references to all exact LZMA segments with substantial UTF-16LE string content. Found repeated 12-byte descriptor-like records beginning at raw 0x11E1C0. Eleven of 22 inspected records point to exact LZMA-Alone blocks; for every valid block, descriptor word 2 exactly matches the LZMA header-declared output size. Six targets contain substantial localized/system text: 0x1749A0, 0x176078, 0x1776E4, 0x17A170, 0x17BC50, and 0x17E49C. Thus a string-resource directory candidate exists near 0x11E1C0, not the previously discussed 0x10Fxxx region. Unlike the verified 42-entry image directory at 0x10FA08, the candidate's top-level count/table-base xref are not yet known. Third-word compressed-length/span semantics remain plausible but unverified. Captured all 22 triples in x280_language_resource_descriptors.json. No expanded-size re-encode or boundary shift attempted; only the prior exact-size BMP slot proof stands.

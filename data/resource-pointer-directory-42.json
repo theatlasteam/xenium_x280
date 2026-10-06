@@ -1,0 +1,626 @@
+{
+  "table_file_offset": "0x10FA08",
+  "table_end_exclusive": "0x10FAB0",
+  "observed_entry_count": 42,
+  "entry_size": 4,
+  "rom_base": "0x10000000",
+  "notes": [
+    "Each pointer targets the 4-byte wrapper immediately preceding a standard LZMA-Alone marker.",
+    "The following word at 0x10FAB0 is 0x167; its meaning is unconfirmed.",
+    "Pointers identify compressed groups, not per-icon application IDs."
+  ],
+  "entries": [
+    {
+      "ordinal": 0,
+      "pointer_word_offset": "0x10fa08",
+      "rom_pointer": "0x1013d140",
+      "wrapper_file_offset": "0x13d140",
+      "lzma_header_file_offset": "0x13d144",
+      "uncompressed_size": 1838,
+      "ab2_resource_count": 7,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0xe2",
+        "0x18a",
+        "0x22c",
+        "0x566",
+        "0x5e6",
+        "0x690"
+      ]
+    },
+    {
+      "ordinal": 1,
+      "pointer_word_offset": "0x10fa0c",
+      "rom_pointer": "0x1013d79c",
+      "wrapper_file_offset": "0x13d79c",
+      "lzma_header_file_offset": "0x13d7a0",
+      "uncompressed_size": 2607,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 2,
+      "pointer_word_offset": "0x10fa10",
+      "rom_pointer": "0x1013e188",
+      "wrapper_file_offset": "0x13e188",
+      "lzma_header_file_offset": "0x13e18c",
+      "uncompressed_size": 2612,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 3,
+      "pointer_word_offset": "0x10fa14",
+      "rom_pointer": "0x1013eb78",
+      "wrapper_file_offset": "0x13eb78",
+      "lzma_header_file_offset": "0x13eb7c",
+      "uncompressed_size": 2600,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 4,
+      "pointer_word_offset": "0x10fa18",
+      "rom_pointer": "0x1013f55c",
+      "wrapper_file_offset": "0x13f55c",
+      "lzma_header_file_offset": "0x13f560",
+      "uncompressed_size": 2623,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 5,
+      "pointer_word_offset": "0x10fa1c",
+      "rom_pointer": "0x1013ff5c",
+      "wrapper_file_offset": "0x13ff5c",
+      "lzma_header_file_offset": "0x13ff60",
+      "uncompressed_size": 2077,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 6,
+      "pointer_word_offset": "0x10fa20",
+      "rom_pointer": "0x101406c0",
+      "wrapper_file_offset": "0x1406c0",
+      "lzma_header_file_offset": "0x1406c4",
+      "uncompressed_size": 2083,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 7,
+      "pointer_word_offset": "0x10fa24",
+      "rom_pointer": "0x10140e28",
+      "wrapper_file_offset": "0x140e28",
+      "lzma_header_file_offset": "0x140e2c",
+      "uncompressed_size": 2915,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 8,
+      "pointer_word_offset": "0x10fa28",
+      "rom_pointer": "0x101418f4",
+      "wrapper_file_offset": "0x1418f4",
+      "lzma_header_file_offset": "0x1418f8",
+      "uncompressed_size": 2768,
+      "ab2_resource_count": 1,
+      "ab2_inner_offsets": [
+        "0x4"
+      ]
+    },
+    {
+      "ordinal": 9,
+      "pointer_word_offset": "0x10fa2c",
+      "rom_pointer": "0x10141da4",
+      "wrapper_file_offset": "0x141da4",
+      "lzma_header_file_offset": "0x141da8",
+      "uncompressed_size": 2902,
+      "ab2_resource_count": 11,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x16c",
+        "0x2ce",
+        "0x3cc",
+        "0x4c2",
+        "0x548",
+        "0x5ac",
+        "0x612",
+        "0x824",
+        "0x9c0",
+        "0xb1a"
+      ]
+    },
+    {
+      "ordinal": 10,
+      "pointer_word_offset": "0x10fa30",
+      "rom_pointer": "0x10142640",
+      "wrapper_file_offset": "0x142640",
+      "lzma_header_file_offset": "0x142644",
+      "uncompressed_size": 2842,
+      "ab2_resource_count": 21,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0xca",
+        "0x190",
+        "0x236",
+        "0x2e2",
+        "0x36a",
+        "0x3f2",
+        "0x468",
+        "0x4e2",
+        "0x71c",
+        "0x788",
+        "0x7d8",
+        "0x80c",
+        "0x846",
+        "0x8f2",
+        "0x964",
+        "0x99e",
+        "0x9d8",
+        "0xa12",
+        "0xa4c",
+        "0xa70"
+      ]
+    },
+    {
+      "ordinal": 11,
+      "pointer_word_offset": "0x10fa34",
+      "rom_pointer": "0x10142c88",
+      "wrapper_file_offset": "0x142c88",
+      "lzma_header_file_offset": "0x142c8c",
+      "uncompressed_size": 2572,
+      "ab2_resource_count": 11,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0xa2",
+        "0x146",
+        "0x1aa",
+        "0x240",
+        "0x2ae",
+        "0x320",
+        "0x38e",
+        "0x400",
+        "0x574",
+        "0x75c"
+      ]
+    },
+    {
+      "ordinal": 12,
+      "pointer_word_offset": "0x10fa38",
+      "rom_pointer": "0x10143548",
+      "wrapper_file_offset": "0x143548",
+      "lzma_header_file_offset": "0x14354c",
+      "uncompressed_size": 2250,
+      "ab2_resource_count": 3,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x2a8",
+        "0x61a"
+      ]
+    },
+    {
+      "ordinal": 13,
+      "pointer_word_offset": "0x10fa3c",
+      "rom_pointer": "0x10143d54",
+      "wrapper_file_offset": "0x143d54",
+      "lzma_header_file_offset": "0x143d58",
+      "uncompressed_size": 2688,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 14,
+      "pointer_word_offset": "0x10fa40",
+      "rom_pointer": "0x101447b4",
+      "wrapper_file_offset": "0x1447b4",
+      "lzma_header_file_offset": "0x1447b8",
+      "uncompressed_size": 2404,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 15,
+      "pointer_word_offset": "0x10fa44",
+      "rom_pointer": "0x101450ec",
+      "wrapper_file_offset": "0x1450ec",
+      "lzma_header_file_offset": "0x1450f0",
+      "uncompressed_size": 2160,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 16,
+      "pointer_word_offset": "0x10fa48",
+      "rom_pointer": "0x10145930",
+      "wrapper_file_offset": "0x145930",
+      "lzma_header_file_offset": "0x145934",
+      "uncompressed_size": 2867,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 17,
+      "pointer_word_offset": "0x10fa4c",
+      "rom_pointer": "0x101463c0",
+      "wrapper_file_offset": "0x1463c0",
+      "lzma_header_file_offset": "0x1463c4",
+      "uncompressed_size": 2918,
+      "ab2_resource_count": 6,
+      "ab2_inner_offsets": [
+        "0x4f6",
+        "0x592",
+        "0x690",
+        "0x720",
+        "0xa46",
+        "0xace"
+      ]
+    },
+    {
+      "ordinal": 18,
+      "pointer_word_offset": "0x10fa50",
+      "rom_pointer": "0x10146e08",
+      "wrapper_file_offset": "0x146e08",
+      "lzma_header_file_offset": "0x146e0c",
+      "uncompressed_size": 2886,
+      "ab2_resource_count": 8,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x24c",
+        "0x57e",
+        "0x7b4",
+        "0x822",
+        "0x8c8",
+        "0x9c8",
+        "0xa86"
+      ]
+    },
+    {
+      "ordinal": 19,
+      "pointer_word_offset": "0x10fa54",
+      "rom_pointer": "0x101477f8",
+      "wrapper_file_offset": "0x1477f8",
+      "lzma_header_file_offset": "0x1477fc",
+      "uncompressed_size": 2938,
+      "ab2_resource_count": 7,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0xfa",
+        "0x3e4",
+        "0x4ce",
+        "0x600",
+        "0x766",
+        "0xa60"
+      ]
+    },
+    {
+      "ordinal": 20,
+      "pointer_word_offset": "0x10fa58",
+      "rom_pointer": "0x1014828c",
+      "wrapper_file_offset": "0x14828c",
+      "lzma_header_file_offset": "0x148290",
+      "uncompressed_size": 3040,
+      "ab2_resource_count": 8,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0xbc",
+        "0x226",
+        "0x3a2",
+        "0x54c",
+        "0x6b8",
+        "0x88e",
+        "0xa0a"
+      ]
+    },
+    {
+      "ordinal": 21,
+      "pointer_word_offset": "0x10fa5c",
+      "rom_pointer": "0x10148db4",
+      "wrapper_file_offset": "0x148db4",
+      "lzma_header_file_offset": "0x148db8",
+      "uncompressed_size": 3012,
+      "ab2_resource_count": 13,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x12a",
+        "0x232",
+        "0x354",
+        "0x478",
+        "0x582",
+        "0x5ea",
+        "0x6a4",
+        "0x746",
+        "0x7ec",
+        "0x936",
+        "0x9ea",
+        "0xb94"
+      ]
+    },
+    {
+      "ordinal": 22,
+      "pointer_word_offset": "0x10fa60",
+      "rom_pointer": "0x101497bc",
+      "wrapper_file_offset": "0x1497bc",
+      "lzma_header_file_offset": "0x1497c0",
+      "uncompressed_size": 2888,
+      "ab2_resource_count": 6,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0xb0",
+        "0x2ca",
+        "0x4be",
+        "0x756",
+        "0x980"
+      ]
+    },
+    {
+      "ordinal": 23,
+      "pointer_word_offset": "0x10fa64",
+      "rom_pointer": "0x1014a0f4",
+      "wrapper_file_offset": "0x14a0f4",
+      "lzma_header_file_offset": "0x14a0f8",
+      "uncompressed_size": 2884,
+      "ab2_resource_count": 5,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x1ee",
+        "0x2ce",
+        "0x3fa",
+        "0x4c8"
+      ]
+    },
+    {
+      "ordinal": 24,
+      "pointer_word_offset": "0x10fa68",
+      "rom_pointer": "0x1014a9cc",
+      "wrapper_file_offset": "0x14a9cc",
+      "lzma_header_file_offset": "0x14a9d0",
+      "uncompressed_size": 1192,
+      "ab2_resource_count": 1,
+      "ab2_inner_offsets": [
+        "0x4"
+      ]
+    },
+    {
+      "ordinal": 25,
+      "pointer_word_offset": "0x10fa6c",
+      "rom_pointer": "0x1014ade4",
+      "wrapper_file_offset": "0x14ade4",
+      "lzma_header_file_offset": "0x14ade8",
+      "uncompressed_size": 3064,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 26,
+      "pointer_word_offset": "0x10fa70",
+      "rom_pointer": "0x1014b2a4",
+      "wrapper_file_offset": "0x14b2a4",
+      "lzma_header_file_offset": "0x14b2a8",
+      "uncompressed_size": 2960,
+      "ab2_resource_count": 9,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x1f4",
+        "0x466",
+        "0x526",
+        "0x590",
+        "0x654",
+        "0x77a",
+        "0x8d8",
+        "0xa66"
+      ]
+    },
+    {
+      "ordinal": 27,
+      "pointer_word_offset": "0x10fa74",
+      "rom_pointer": "0x1014bd1c",
+      "wrapper_file_offset": "0x14bd1c",
+      "lzma_header_file_offset": "0x14bd20",
+      "uncompressed_size": 2958,
+      "ab2_resource_count": 6,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x150",
+        "0x280",
+        "0x3ca",
+        "0x4a4",
+        "0x586"
+      ]
+    },
+    {
+      "ordinal": 28,
+      "pointer_word_offset": "0x10fa78",
+      "rom_pointer": "0x1014c698",
+      "wrapper_file_offset": "0x14c698",
+      "lzma_header_file_offset": "0x14c69c",
+      "uncompressed_size": 2828,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 29,
+      "pointer_word_offset": "0x10fa7c",
+      "rom_pointer": "0x1014cbec",
+      "wrapper_file_offset": "0x14cbec",
+      "lzma_header_file_offset": "0x14cbf0",
+      "uncompressed_size": 2746,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 30,
+      "pointer_word_offset": "0x10fa80",
+      "rom_pointer": "0x1014d334",
+      "wrapper_file_offset": "0x14d334",
+      "lzma_header_file_offset": "0x14d338",
+      "uncompressed_size": 3056,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 31,
+      "pointer_word_offset": "0x10fa84",
+      "rom_pointer": "0x1014d6b0",
+      "wrapper_file_offset": "0x14d6b0",
+      "lzma_header_file_offset": "0x14d6b4",
+      "uncompressed_size": 2998,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 32,
+      "pointer_word_offset": "0x10fa88",
+      "rom_pointer": "0x1014dd90",
+      "wrapper_file_offset": "0x14dd90",
+      "lzma_header_file_offset": "0x14dd94",
+      "uncompressed_size": 2688,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 33,
+      "pointer_word_offset": "0x10fa8c",
+      "rom_pointer": "0x1014e3c0",
+      "wrapper_file_offset": "0x14e3c0",
+      "lzma_header_file_offset": "0x14e3c4",
+      "uncompressed_size": 2688,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 34,
+      "pointer_word_offset": "0x10fa90",
+      "rom_pointer": "0x1014eb1c",
+      "wrapper_file_offset": "0x14eb1c",
+      "lzma_header_file_offset": "0x14eb20",
+      "uncompressed_size": 2242,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    },
+    {
+      "ordinal": 35,
+      "pointer_word_offset": "0x10fa94",
+      "rom_pointer": "0x1014f154",
+      "wrapper_file_offset": "0x14f154",
+      "lzma_header_file_offset": "0x14f158",
+      "uncompressed_size": 1878,
+      "ab2_resource_count": 2,
+      "ab2_inner_offsets": [
+        "0x528",
+        "0x634"
+      ]
+    },
+    {
+      "ordinal": 36,
+      "pointer_word_offset": "0x10fa98",
+      "rom_pointer": "0x1014f708",
+      "wrapper_file_offset": "0x14f708",
+      "lzma_header_file_offset": "0x14f70c",
+      "uncompressed_size": 2222,
+      "ab2_resource_count": 1,
+      "ab2_inner_offsets": [
+        "0x4"
+      ]
+    },
+    {
+      "ordinal": 37,
+      "pointer_word_offset": "0x10fa9c",
+      "rom_pointer": "0x1014fe10",
+      "wrapper_file_offset": "0x14fe10",
+      "lzma_header_file_offset": "0x14fe14",
+      "uncompressed_size": 2750,
+      "ab2_resource_count": 6,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x606",
+        "0x69a",
+        "0x71c",
+        "0x79a",
+        "0x818"
+      ]
+    },
+    {
+      "ordinal": 38,
+      "pointer_word_offset": "0x10faa0",
+      "rom_pointer": "0x10150700",
+      "wrapper_file_offset": "0x150700",
+      "lzma_header_file_offset": "0x150704",
+      "uncompressed_size": 2544,
+      "ab2_resource_count": 5,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x1c0",
+        "0x3bc",
+        "0x5e6",
+        "0x7e4"
+      ]
+    },
+    {
+      "ordinal": 39,
+      "pointer_word_offset": "0x10faa4",
+      "rom_pointer": "0x10150d74",
+      "wrapper_file_offset": "0x150d74",
+      "lzma_header_file_offset": "0x150d78",
+      "uncompressed_size": 2812,
+      "ab2_resource_count": 5,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x28e",
+        "0x446",
+        "0x702",
+        "0x98c"
+      ]
+    },
+    {
+      "ordinal": 40,
+      "pointer_word_offset": "0x10faa8",
+      "rom_pointer": "0x10151588",
+      "wrapper_file_offset": "0x151588",
+      "lzma_header_file_offset": "0x15158c",
+      "uncompressed_size": 2703,
+      "ab2_resource_count": 2,
+      "ab2_inner_offsets": [
+        "0x4",
+        "0x15a"
+      ]
+    },
+    {
+      "ordinal": 41,
+      "pointer_word_offset": "0x10faac",
+      "rom_pointer": "0x10151c00",
+      "wrapper_file_offset": "0x151c00",
+      "lzma_header_file_offset": "0x151c04",
+      "uncompressed_size": 2393,
+      "ab2_resource_count": 0,
+      "ab2_inner_offsets": []
+    }
+  ],
+  "declared_count_field": {
+    "file_offset": "0x10FA04",
+    "value": 42,
+    "raw_hex": "2a 00 00 00"
+  },
+  "directory_header": {
+    "start": "0x10F9F0",
+    "self_pointer_offset": "0x10F9F8",
+    "self_pointer_value": "0x1010F9F0",
+    "first_record_pointer_offset": "0x10F9FC",
+    "first_record_pointer_value": "0x1013D13C",
+    "uninterpreted_word_offset": "0x10FA00",
+    "uninterpreted_word_value": "0xF017CF44"
+  },
+  "code_references": [
+    {
+      "code_file_offset": "0x85AA4",
+      "literal_pointer": "0x1010FA04",
+      "meaning": "count field address"
+    },
+    {
+      "code_file_offset": "0x85AA8",
+      "literal_pointer": "0x1010FA08",
+      "meaning": "pointer-array base"
+    }
+  ]
+}
