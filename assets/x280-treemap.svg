@@ -15,7 +15,7 @@
 <rect x="30" y="145" width="840" height="420" rx="10" fill="url(#ab2)" stroke="#0b121b" stroke-width="5"/>
 <rect x="870" y="145" width="300" height="355" rx="10" fill="url(#classic)" stroke="#0b121b" stroke-width="5"/>
 <rect x="870" y="500" width="300" height="65" rx="10" fill="url(#unknown)" stroke="#0b121b" stroke-width="5"/>
-<text x="60" y="191" fill="#d9fff0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">MEDIAteK AB2 / RLE</text>
+<text x="60" y="191" fill="#d9fff0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">MEDIATEK AB2 / RLE</text>
 <text x="58" y="323" fill="#ffffff" font-family="Inter,Arial,sans-serif" font-size="118" font-weight="750">144</text>
 <text x="66" y="362" fill="#d7f5e9" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="600">изображения декодированы</text>
 <text x="66" y="398" fill="#c5eadb" font-family="Inter,Arial,sans-serif" font-size="15">143 уникальных визуала · среди них иконки приложений</text>
